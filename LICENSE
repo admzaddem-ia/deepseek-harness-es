@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Aviso sobre componentes de terceros
-
-- Las cadenas de texto en inglés que este repositorio traduce provienen de DeepSeek Harness
-  (https://github.com/deepseek-ai/deepseek-harness), publicado bajo licencia MIT.
-- Las traducciones al español se distribuyen bajo la licencia MIT de este repositorio.
-- Los pesos de los modelos de voz NO se redistribuyen aquí: el plugin los descarga en tiempo de
-  ejecución desde Hugging Face. Cada repositorio de modelos conserva su propia licencia.
-- Los runtimes nativos que el plugin usa en tiempo de ejecución ya vienen con DeepSeek Harness:
-  `sherpa-onnx-node` y `sherpa-onnx-win-x64` v1.13.8, licencia Apache-2.0.

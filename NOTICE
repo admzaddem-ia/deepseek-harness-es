@@ -1,0 +1,19 @@
+# Avisos sobre componentes de terceros
+
+Este repositorio se distribuye bajo la licencia MIT (ver [`LICENSE`](LICENSE)). Además:
+
+- **Cadenas de texto en inglés**: provienen de DeepSeek Harness
+  (https://github.com/deepseek-ai/deepseek-harness), publicado bajo licencia MIT. Las traducciones al
+  español son obra de este repositorio y se distribuyen también bajo MIT.
+- **Pesos de los modelos de voz**: NO se redistribuyen aquí. El plugin los descarga en tiempo de
+  ejecución desde Hugging Face, y cada repositorio de modelos conserva su propia licencia:
+  - `csukuangfj/sherpa-onnx-whisper-base` y `csukuangfj/sherpa-onnx-whisper-small` (conversión a ONNX
+    de los modelos Whisper de OpenAI, que son MIT).
+  - `csukuangfj/vad` (Silero VAD; el proyecto original es https://github.com/snakers4/silero-vad, MIT).
+- **Runtime nativo de reconocimiento**: `sherpa-onnx-node` y `sherpa-onnx-win-x64` v1.13.8, licencia
+  Apache-2.0 (https://github.com/k2-fsa/sherpa-onnx), ya incluidos en DeepSeek Harness. El plugin no
+  los redistribuye.
+- **Audio de muestra** (`samples/prueba-es.wav`): generado localmente con la voz TTS de Windows
+  Microsoft Helena (es-ES); no proviene de ningún archivo de terceros.
+
+Detalle ampliado de licencias y atribución: [`docs/CREDITOS.md`](docs/CREDITOS.md).

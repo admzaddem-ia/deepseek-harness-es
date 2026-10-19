@@ -27,4 +27,5 @@ Este repositorio es un complemento no oficial. No está afiliado ni respaldado p
 ## Atribución
 
 Si reutilizás esta traducción o el proveedor de voz en otro proyecto, mantené el aviso de copyright
-de [`LICENSE`](../LICENSE) y, si te sirve, enlazá este repositorio como origen.
+de [`LICENSE`](../LICENSE) y, si te sirve, enlazá este repositorio como origen. Los avisos de
+terceros están resumidos también en [`NOTICE`](../NOTICE).
