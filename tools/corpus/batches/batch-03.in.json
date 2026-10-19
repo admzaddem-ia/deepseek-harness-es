@@ -1,0 +1,1302 @@
+[
+ {
+  "ns": "pluginManager",
+  "key": "panel",
+  "en": "Plugins"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "title",
+  "en": "Plugins"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "intro",
+  "en": "Install, enable, and configure plugins"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "infoLabel",
+  "en": "About plugins"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "infoDescription",
+  "en": "Configure official plugins and install or manage other plugins here. View the built-in plugin list and runtime status in Settings → Built-in plugins."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "loading",
+  "en": "Reading plugins…"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "error",
+  "en": "Could not read all plugins, possibly due to a network problem"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "unavailable",
+  "en": "This deployment runs without a manageable profile, so plugins cannot be installed or switched here."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "refresh",
+  "en": "Refresh"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "refreshError",
+  "en": "Refresh failed. Please try again."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "empty",
+  "en": "No plugins are installed yet."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "addPlugin",
+  "en": "Add plugin"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "restartNotice",
+  "en": "The change takes effect at the next start"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "overriddenNotice",
+  "en": "{name} was saved, but a higher-priority configuration overrides it, so it is not in effect"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "bundlesTitle",
+  "en": "Installed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "officialTitle",
+  "en": "Official"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "statusProblem",
+  "en": "Problem"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "statusBeta",
+  "en": "Experimental"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonLabel",
+  "en": "Reason"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "metadataError",
+  "en": "Package metadata error: {error}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "versionTag",
+  "en": "v{version}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsLabel",
+  "en": "Components"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsEmpty",
+  "en": "This plugin pack contains no components."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsCountTotal",
+  "en": "{count} total"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsCountRunning",
+  "en": "{count} running"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsCountOff",
+  "en": "{count} off"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partOff",
+  "en": "Off"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsCountFailed",
+  "en": "{count} failed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsFilter",
+  "en": "Filter components"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partsFilterEmpty",
+  "en": "No component matches."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "partToggle",
+  "en": "Enable component {name}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "rowPhasePending",
+  "en": "Waiting for dependencies"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "rowPhaseLoading",
+  "en": "Loading"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "rowPhaseActive",
+  "en": "Running"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "rowPhaseFailed",
+  "en": "Problem"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "rowPhaseUnloading",
+  "en": "Unloading"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "enableToggle",
+  "en": "Enable {name}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "openDetail",
+  "en": "View {name}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "backToList",
+  "en": "Back to plugins"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "crumbRoot",
+  "en": "Plugins"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "backToPackage",
+  "en": "Back to {name}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "configureRow",
+  "en": "Configure {name}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "rowStateIdle",
+  "en": "Not running"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "uninstall",
+  "en": "Uninstall"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "uninstallLabel",
+  "en": "Uninstall {name}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installTitle",
+  "en": "Add plugin"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installDescription",
+  "en": "Enter the plugin's package name, GitHub repository address, or local directory path."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installSpecLabel",
+  "en": "Package name or address"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installSpecPlaceholder",
+  "en": "for example dsh-plugin-whale-pet"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideToggle",
+  "en": "Install guide and examples"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideHide",
+  "en": "Hide the guide"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideIdTitle",
+  "en": "Enter the plugin's npm package name"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideIdExample",
+  "en": "dsh-plugin-whale-pet"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideIdHint",
+  "en": "The plugin package name is the npm package name (like dsh-xxx or @author/plugin): the part after dsh plugin add or pnpm add in a community plugin's README install command."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideExampleLabel",
+  "en": "Example: "
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGitTemplateHint",
+  "en": "Replace this with the actual Git repository address."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installPathTemplateHint",
+  "en": "Replace this with the actual path to your local plugin directory."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideFill",
+  "en": "Use example"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideFillAria",
+  "en": "Use the example {example}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGuideSafety",
+  "en": "Install only plugins you trust: they run with your permissions and can damage DeepSeek Harness or leak your data."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installUpgradeNotice",
+  "en": "Installed plugins do not update automatically yet. To upgrade a plugin, uninstall it and install the new version. Later releases will keep improving the upgrade experience."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryToggle",
+  "en": "Registry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryLegend",
+  "en": "The npm registry the plugin is downloaded from"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryDefault",
+  "en": "Default registry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryOfficial",
+  "en": "Official npm registry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryNpmmirror",
+  "en": "Mainland China mirror"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryCustom",
+  "en": "Custom address"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryCustomPlaceholder",
+  "en": "https://npm.example.com/"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryCustomHint",
+  "en": "Enter an internal or private npm registry address starting with http:// or https://. If it requires a login, store the credentials in ~/.npmrc on this machine."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryCustomInvalid",
+  "en": "Enter an address starting with http:// or https://"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "registryListSeparator",
+  "en": ", "
+ },
+ {
+  "ns": "pluginManager",
+  "key": "sentenceSeparator",
+  "en": " "
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installRun",
+  "en": "Install"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installChecking",
+  "en": "Checking…"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemInvalid",
+  "en": "This is not a package name or address that can be installed: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemInstalled",
+  "en": "This plugin is already installed. To upgrade it, uninstall it and install it again"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemShipped",
+  "en": "This plugin ships with DSH; upgrading DSH updates it"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemNotFound",
+  "en": "No such plugin was found"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemNotPackage",
+  "en": "The path does not exist or is not a valid plugin package"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemNotBundle",
+  "en": "This package declares no bundle, so it cannot be installed as a plugin: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemNetwork",
+  "en": "The plugin registry could not be reached; check the network and try again"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemNetworkAll",
+  "en": "No registry could be reached (tried: {registries}); check the network or proxy settings, or change the registry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installProblemUnknown",
+  "en": "The plugin could not be looked up: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installingTitle",
+  "en": "Installing the plugin…"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installedTitle",
+  "en": "Installed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailedTitle",
+  "en": "The plugin could not be installed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGithubFailedTitle",
+  "en": "Cannot access GitHub"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGithubTimeoutTitle",
+  "en": "GitHub connection timed out"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installGithubFailedDescription",
+  "en": "Try another installation source."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installUseGithubMirror",
+  "en": "Use mainland China mirror"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installTryAnotherWay",
+  "en": "Try another way"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installPackageLabel",
+  "en": "Plugin package name"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installEdit",
+  "en": "Edit"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installEditAria",
+  "en": "Back to editing"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installCancelAndEdit",
+  "en": "Cancel installation and return to editing"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installApplyingCancellationError",
+  "en": "Cancellation was not confirmed. Installation is being applied; wait for its result. {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installReconcile",
+  "en": "Check installation status"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installUnknownTitle",
+  "en": "Installation result unavailable"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installUnknownDescription",
+  "en": "The Host has no active installation with this request id. Check the plugin list before trying again."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installResultUnconfirmed",
+  "en": "The installation result was not received. Check installation status. {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installAwaitingAcceptance",
+  "en": "Waiting for the Host to accept installation. Cancellation will retry automatically after confirmation."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installBackgroundUnknown",
+  "en": "Installation result unavailable. Check the plugin list."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installCancel",
+  "en": "Cancel install"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installCloseCancels",
+  "en": "Cancel install and close"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installViewTask",
+  "en": "View installation"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installUnconfirmedTitle",
+  "en": "Installation status unconfirmed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installBackgroundDone",
+  "en": "Installation finished. View installation details."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installBackgroundFailed",
+  "en": "Installation failed. View installation details."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installBackgroundUnconfirmed",
+  "en": "Installation status is unconfirmed. View the installation for details."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installBackgroundApplying",
+  "en": "Installation is being applied and cannot be cancelled. View installation progress."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installStarting",
+  "en": "Preparing installation…"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installCancelling",
+  "en": "Stopping installation…"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installApplying",
+  "en": "Applying configuration, please wait…"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installCancelledShort",
+  "en": "Cancelled"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installCancelled",
+  "en": "Installation cancelled; the plugin is not enabled, and downloaded files may remain"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installCancelUnconfirmed",
+  "en": "Installation has not been confirmed stopped. Retry cancellation or wait for the installation result. {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installEnableNow",
+  "en": "Enable now"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installDetailsShow",
+  "en": "Show install details"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installDetailsHide",
+  "en": "Hide install details"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installVersion",
+  "en": "Version {version}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installSubjectPath",
+  "en": "Local directory"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installSubjectGit",
+  "en": "Git repository"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installSubjectTarball",
+  "en": "Tarball"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installLocation",
+  "en": "Installs into {dir}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installRetry",
+  "en": "Retry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installChangeRegistry",
+  "en": "Change registry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installAttempt",
+  "en": "{previous} could not serve the package; retrying through {registry} (registry {index} of {total})"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installAttemptBadge",
+  "en": "Attempt {index} · {registry}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureNetwork",
+  "en": "The network connection failed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureNetworkAll",
+  "en": "No registry could be reached (tried: {registries}). Check the network or proxy settings, or change the registry and retry."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureNetworkHost",
+  "en": "{host} could not be reached. A GitHub address or a .tgz link is not fetched through the registry: this machine must reach it directly or through a proxy. If the plugin is also published to npm, enter its package name instead."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureNotFound",
+  "en": "No such plugin was found"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureNoMatchingVersion",
+  "en": "No version matches the request"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureDiskFull",
+  "en": "The disk is full; the install stopped"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailurePermission",
+  "en": "No write permission; the plugin cannot be installed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureBuildBlocked",
+  "en": "A dependency's install scripts need your permission before the install can continue"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureBuildBlockedManual",
+  "en": "pnpm blocked install scripts; allow them under allowBuilds in pnpm-workspace.yaml and retry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureIntegrity",
+  "en": "The downloaded package failed its integrity check"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureTimeout",
+  "en": "The install timed out"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailurePnpmMissing",
+  "en": "pnpm was not found, so nothing can be installed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installFailureGeneric",
+  "en": "Something went wrong during the install; the details say what"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalRunning",
+  "en": "Running"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalFailed",
+  "en": "Failed"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalDone",
+  "en": "Done"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalCopy",
+  "en": "Copy"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalCopied",
+  "en": "Copied"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalNoOutput",
+  "en": "No output"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalCollapseAria",
+  "en": "Collapse output"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalCollapse",
+  "en": "Collapse"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalExpandAria",
+  "en": "Expand the remaining {n} output lines"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalExpand",
+  "en": "… {n} more lines"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalExitCode",
+  "en": "exit code {code}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalSignal",
+  "en": "signal {signal}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "terminalNoExitCode",
+  "en": "no exit code"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installDoneNothing",
+  "en": "Install finished with no new dependency."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installDoneRestart",
+  "en": "Installed; it loads at the next start."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installDoneApproved",
+  "en": "Install scripts allowed for {names}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installApprovalTitle",
+  "en": "Install scripts need permission"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installApprovalDescription",
+  "en": "These packages have install scripts that pnpm did not run."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installApprovalConsequence",
+  "en": "Once allowed, the scripts run here with your permissions, and the permission is saved in this profile."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installApprovalCaution",
+  "en": "Allow only packages you trust."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installApproveAndRetry",
+  "en": "Allow these scripts and retry"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "installClose",
+  "en": "Done"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "close",
+  "en": "Close"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "confirmUninstallTitle",
+  "en": "Uninstall \"{name}\"?"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "confirmUninstallDescription",
+  "en": "What it provides goes away once it is uninstalled."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "confirmUninstall",
+  "en": "Uninstall"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "failedEnable",
+  "en": "Could not enable: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "failedDisable",
+  "en": "Could not disable: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "failedUninstall",
+  "en": "Could not uninstall: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "failedRowEnable",
+  "en": "Could not enable the component: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "failedRowDisable",
+  "en": "Could not disable the component: {reason}"
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonManagementRequired",
+  "en": "Plugin management needs it; it cannot be switched off or uninstalled."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonUnaddressable",
+  "en": "The profile patch cannot address this one uniquely."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonUnknownPlugin",
+  "en": "No such plugin."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonInvalidSpec",
+  "en": "Enter a valid package name or address."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonAmbiguousInstall",
+  "en": "Which package was installed cannot be told from the dependency change."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonNotBundle",
+  "en": "This package declares no bundle, so it cannot be managed as a plugin."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonNotRemovable",
+  "en": "This package is not owned by the profile, or plugin management needs it."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonStopProfile",
+  "en": "This profile runs without HMR; stop it and uninstall the package with dsh plugin."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonBundleInUse",
+  "en": "Other configuration still uses this bundle's components; switch them off first."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonStaleApproval",
+  "en": "The pending script approvals changed; install again to refresh them."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonIncompatibleVersion",
+  "en": "{plugin} is incompatible with DSH {runtime} (requires {peers}); running it may cause crashes or data loss."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonIncompatibleVersionUnnamed",
+  "en": "This plugin is incompatible with the running DSH version; running it may cause crashes or data loss."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonIncompatibleInstall",
+  "en": "Install a plugin version compatible with this DSH."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonIncompatibleInstalled",
+  "en": "Uninstall it and install a version compatible with this DSH."
+ },
+ {
+  "ns": "pluginManager",
+  "key": "reasonOperationError",
+  "en": "The Host reported an error."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "edit-label",
+  "en": "Edit shortcut for {command}"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "record",
+  "en": "Press a shortcut"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "record-help",
+  "en": "Release the keys to save. Tab moves between actions; Esc cancels."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "web-help",
+  "en": "Browser combinations: Mod+/, Mod+Shift+,, Mod+Shift+.. Mod is Command on Mac and Ctrl elsewhere."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "unsupported-key",
+  "en": "This key is not supported."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "reserved",
+  "en": "This combination is reserved for system or text editing actions."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "modifier-required",
+  "en": "Include Command, Ctrl, or Alt in the combination."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "too-many-keys",
+  "en": "Hold at most two non-modifier keys. Release the keys to try again."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "macos-web-help",
+  "en": "Use Command+/, Command+,, Command+Backslash, Control+Backquote, Command+Option+key, or Command+Shift+key. Combinations with three or four distinct modifiers are also supported. Browser or system shortcuts may not reach the page."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "windows-web-help",
+  "en": "Use Ctrl+/, Ctrl+,, Ctrl+Alt+key, or Ctrl+Shift+key. Combinations with three or four distinct modifiers are also supported. Browser or system shortcuts may not reach the page."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "unsupported-browser",
+  "en": "This browser does not support this combination yet."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "conflict",
+  "en": "Already used by “{commands}”"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "saved",
+  "en": "Modified"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "clear",
+  "en": "Remove"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "retry-save",
+  "en": "Retry save"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "reset",
+  "en": "Restore default"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "reset-all",
+  "en": "Restore all defaults"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "modified-count",
+  "en": "{count} customized"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "reset-title",
+  "en": "Restore all default shortcuts?"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "reset-description",
+  "en": "Restore the default shortcuts for this platform. All modified or removed shortcuts will be restored. Other platforms are unaffected."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "reset-saved",
+  "en": "Default shortcuts restored"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "close-confirmation",
+  "en": "Close confirmation"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "reset-failed",
+  "en": "Could not restore defaults. Your shortcuts are unchanged. Please retry."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "review",
+  "en": "I have reviewed the latest configuration"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "stale",
+  "en": "Shortcut configuration or available commands changed. Review the latest bindings before saving."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "write-failed",
+  "en": "Could not save. Your previous shortcuts and current draft are preserved. Please retry."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "not-ready",
+  "en": "Shortcuts are not ready. Please try again."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "read",
+  "en": "Could not read {location}. Check access permissions, then {reload}."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "invalid",
+  "en": "Shortcut configuration in {location} is damaged. Back up and repair this configuration, then {reload}."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "future",
+  "en": "Shortcut configuration in {location} was created by a newer version. Upgrade Harness and try again."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "web-document",
+  "en": "this site’s localStorage entry dsh.keybindings.v1"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "desktop-document",
+  "en": "userData/keybindings.json"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "web-reload",
+  "en": "reload the page"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "desktop-reload",
+  "en": "restart Harness"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "using-defaults",
+  "en": "Default bindings are active."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "using-accepted",
+  "en": "The last successfully read bindings remain active."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "native-failed",
+  "en": "Could not protect desktop key recording. Exit recording and try again."
+ },
+ {
+  "ns": "shortcuts",
+  "key": "global-hint",
+  "en": "Open from anywhere"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "clear-search",
+  "en": "Clear search"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "title",
+  "en": "Keyboard shortcuts"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "open",
+  "en": "Open keyboard shortcuts"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "settings",
+  "en": "Keyboard shortcuts"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "view",
+  "en": "Edit shortcuts"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "description",
+  "en": "View and edit available shortcuts and input actions"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "search",
+  "en": "Search shortcuts"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "close",
+  "en": "Close keyboard shortcuts"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "application",
+  "en": "Application"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "input",
+  "en": "Message input"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "menus",
+  "en": "Menus and dialogs"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "approval",
+  "en": "Approval area"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "unbound",
+  "en": "No shortcut"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "empty",
+  "en": "No matching shortcuts"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "move",
+  "en": "Move menu selection"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "select",
+  "en": "Select menu item"
+ },
+ {
+  "ns": "shortcuts",
+  "key": "dismiss",
+  "en": "Close menu or top dialog"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "open.title",
+  "en": "Open in {app}"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "path.appDefault",
+  "en": "{app} (default)"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "path.appsError",
+  "en": "Could not load applications"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "shortcut.busy",
+  "en": "Opening workspace"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "shortcut.unavailable",
+  "en": "Current workspace or local application unavailable"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "open.tooltip",
+  "en": "Open locally"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "path.open",
+  "en": "Open"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "path.more",
+  "en": "More ways to open"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "path.reveal",
+  "en": "Show file location"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "path.openError",
+  "en": "Could not open. Try again."
+ },
+ {
+  "ns": "open-in-app",
+  "key": "path.revealError",
+  "en": "Could not show the file location. Try again."
+ },
+ {
+  "ns": "open-in-app",
+  "key": "app.finder",
+  "en": "Finder"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "app.explorer",
+  "en": "File Explorer"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "app.filemanager",
+  "en": "Files"
+ },
+ {
+  "ns": "open-in-app",
+  "key": "app.terminal",
+  "en": "Terminal"
+ }
+]

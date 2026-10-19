@@ -1,0 +1,23 @@
+{
+  "name": "@local/dsh-speech-to-text-whisper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proveedor local de reconocimiento de voz multilingüe (Whisper) con soporte de español",
+  "icon": "./icon.svg",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./worker": "./whisper-worker.js",
+    "./cordis.patch.yml": "./cordis.patch.yml"
+  },
+  "files": [
+    "index.js",
+    "whisper-worker.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg"
+  ],
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" }
+  }
+}

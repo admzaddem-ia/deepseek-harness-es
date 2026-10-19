@@ -1,0 +1,1297 @@
+[
+ {
+  "ns": "settings.account",
+  "key": "modelSignInRequired",
+  "en": "Model unavailable. Please sign in and try again."
+ },
+ {
+  "ns": "settings.account",
+  "key": "sessionExpired",
+  "en": "You have signed out of your account, please log in again."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingArtworkLocale",
+  "en": "en"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingWelcome",
+  "en": "Welcome to"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingBrand",
+  "en": "DeepSeek Harness"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingIntroduction",
+  "en": "DeepSeek Harness works in a local folder and uses tools to read and write files on your computer. It can help you research and organize information, create documents and spreadsheets, write code, troubleshoot issues, and more."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingStart",
+  "en": "Get started"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingCredit",
+  "en": "Add credits"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingCreditDescription",
+  "en": "DeepSeek Harness charges credits based on the tokens used by models and tools. Add credits in advance to keep your tasks running without interruption. Your balance is only used while the agent is working on a task."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingTopUp",
+  "en": "Add credits"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingLater",
+  "en": "Next"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingFundedTopUp",
+  "en": "Add credits"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingPurposePrefix",
+  "en": "What would you like"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingPurposeSuffix",
+  "en": "to help with?"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingPurposeDescription",
+  "en": "We’ll tailor the interface and tools to fit the way you work."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingOffice",
+  "en": "Office & creative work"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingOfficeDescription",
+  "en": "Edit documents, organize data, create presentations, and more"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingDevelopment",
+  "en": "Coding & development"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingDevelopmentDescription",
+  "en": "Edit code, debug issues, run commands, manage project files, and more"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingContinue",
+  "en": "Continue"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingProcess",
+  "en": "How much detail would you like to see?"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingProcessDescription",
+  "en": "This only changes how progress is shown, not what DeepSeek Harness can do."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingCompact",
+  "en": "Results only"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingCompactDescription",
+  "en": "See just the results in a clean, simple interface"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingStandard",
+  "en": "Key details"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingStandardDescription",
+  "en": "Focus on results, with only the most important steps and actions shown"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingDetailed",
+  "en": "Full details"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingDetailedDescription",
+  "en": "See the full process for easier debugging and troubleshooting"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingEnter",
+  "en": "Open app"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingBack",
+  "en": "Back"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingSkip",
+  "en": "Skip"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingSkipTitle",
+  "en": "Skip setup?"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingSkipDescription",
+  "en": "You can change how progress, performance, and usage are displayed, or enable Coding Tools, anytime in Settings → General."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingKeepSetting",
+  "en": "Continue setup"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingNoCreditTitle",
+  "en": "Skip adding credits?"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingNoCreditDescription",
+  "en": "DeepSeek Harness can’t start new tasks without credits. You can add them later in Settings → Account."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingUnderstood",
+  "en": "Got it"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingGoTopUp",
+  "en": "Add credits"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingSaveFailed",
+  "en": "Could not save settings. Try again."
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingRetry",
+  "en": "Retry"
+ },
+ {
+  "ns": "settings.account",
+  "key": "onboardingLoading",
+  "en": "Loading settings…"
+ },
+ {
+  "ns": "settings.account",
+  "key": "close",
+  "en": "Close"
+ },
+ {
+  "ns": "settings.account",
+  "key": "addApiKey",
+  "en": "Add API Key"
+ },
+ {
+  "ns": "settings.account",
+  "key": "retry",
+  "en": "Sign in again"
+ },
+ {
+  "ns": "settings.account",
+  "key": "loginTitle",
+  "en": "Get started"
+ },
+ {
+  "ns": "settings.account",
+  "key": "loginDescription",
+  "en": "Sign in to your DeepSeek account or add an API Key to get started. Your projects and files are stored locally."
+ },
+ {
+  "ns": "settings.account",
+  "key": "browserTitle",
+  "en": "Waiting for sign in"
+ },
+ {
+  "ns": "settings.account",
+  "key": "browserPrompt",
+  "en": "Page did not open automatically? "
+ },
+ {
+  "ns": "settings.account",
+  "key": "copyLink",
+  "en": "Copy sign-in link"
+ },
+ {
+  "ns": "settings.account",
+  "key": "copiedLink",
+  "en": "Link copied"
+ },
+ {
+  "ns": "settings.account",
+  "key": "copyFailed",
+  "en": "Copy failed"
+ },
+ {
+  "ns": "settings.account",
+  "key": "browserDescription",
+  "en": ", then open it in your browser to finish signing in."
+ },
+ {
+  "ns": "settings.account",
+  "key": "timeoutTitle",
+  "en": "Sign in timed out"
+ },
+ {
+  "ns": "settings.account",
+  "key": "timeoutDescription",
+  "en": "Sign in again to continue."
+ },
+ {
+  "ns": "settings.account",
+  "key": "failureTitle",
+  "en": "Could not sign in"
+ },
+ {
+  "ns": "settings.account",
+  "key": "platformFailed",
+  "en": "Could not complete the operation. Try again."
+ },
+ {
+  "ns": "settings.account",
+  "key": "platformRetry",
+  "en": "Retry"
+ },
+ {
+  "ns": "settings.account",
+  "key": "loading",
+  "en": "Loading…"
+ },
+ {
+  "ns": "settings.account",
+  "key": "backToHarness",
+  "en": "Back to DeepSeek Harness"
+ },
+ {
+  "ns": "settings.account",
+  "key": "settings",
+  "en": "Settings"
+ },
+ {
+  "ns": "settings.account",
+  "key": "contactUs",
+  "en": "Feedback"
+ },
+ {
+  "ns": "settings.account",
+  "key": "menu",
+  "en": "Account menu"
+ },
+ {
+  "ns": "settings.account",
+  "key": "nav",
+  "en": "Account"
+ },
+ {
+  "ns": "settings.account",
+  "key": "signedIn",
+  "en": "Signed in to DeepSeek"
+ },
+ {
+  "ns": "settings.account",
+  "key": "signedOut",
+  "en": "Not signed in"
+ },
+ {
+  "ns": "settings.account",
+  "key": "signIn",
+  "en": "Sign in"
+ },
+ {
+  "ns": "settings.account",
+  "key": "signOut",
+  "en": "Sign out"
+ },
+ {
+  "ns": "settings.account",
+  "key": "signOutUnknownDescription",
+  "en": "Could not check running tasks. Signing out may interrupt tasks using this account. Sign out now?"
+ },
+ {
+  "ns": "settings.account",
+  "key": "signOutDescription",
+  "en": "Signing out will not delete any data. You can sign in to this account again."
+ },
+ {
+  "ns": "settings.account",
+  "key": "signOutRunningDescription",
+  "en": "Tasks are currently running. Signing out will interrupt them. Sign out now?"
+ },
+ {
+  "ns": "settings.account",
+  "key": "cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "settings.account",
+  "key": "open",
+  "en": "Open browser"
+ },
+ {
+  "ns": "settings.account",
+  "key": "initializing",
+  "en": "Starting sign in…"
+ },
+ {
+  "ns": "settings.account",
+  "key": "waiting",
+  "en": "Continue in your browser"
+ },
+ {
+  "ns": "settings.account",
+  "key": "completing",
+  "en": "Completing sign in…"
+ },
+ {
+  "ns": "settings.account",
+  "key": "expired",
+  "en": "Sign in expired. Try again."
+ },
+ {
+  "ns": "settings.account",
+  "key": "failed",
+  "en": "Could not complete the operation. Try again."
+ },
+ {
+  "ns": "settings.account",
+  "key": "settingsSignedOutTitle",
+  "en": "You are not signed in to DeepSeek Harness"
+ },
+ {
+  "ns": "settings.account",
+  "key": "settingsSignedOutDescription",
+  "en": "Sign in to DeepSeek Harness to get your dedicated API Key"
+ },
+ {
+  "ns": "settings.account",
+  "key": "signInDescription",
+  "en": "Use your DeepSeek account to get started."
+ },
+ {
+  "ns": "settings.account",
+  "key": "profileUnavailable",
+  "en": "Account details are not available yet."
+ },
+ {
+  "ns": "settings.account",
+  "key": "balance",
+  "en": "Topped-up balance"
+ },
+ {
+  "ns": "settings.account",
+  "key": "bonusBalance",
+  "en": "Granted balance"
+ },
+ {
+  "ns": "settings.account",
+  "key": "balanceUnavailable",
+  "en": "View on Platform"
+ },
+ {
+  "ns": "settings.account",
+  "key": "balanceSignedOut",
+  "en": "Sign in to view"
+ },
+ {
+  "ns": "settings.account",
+  "key": "accountInfo",
+  "en": "More account information"
+ },
+ {
+  "ns": "settings.account",
+  "key": "more",
+  "en": "More"
+ },
+ {
+  "ns": "settings.account",
+  "key": "usage",
+  "en": "View usage"
+ },
+ {
+  "ns": "settings.account",
+  "key": "topUp",
+  "en": "Top up"
+ },
+ {
+  "ns": "settings.account",
+  "key": "quotaTitle",
+  "en": "No balance available"
+ },
+ {
+  "ns": "settings.account",
+  "key": "quotaDescription",
+  "en": "DeepSeek Harness cannot start a new task with this account when no balance is available. Would you like to top up? You can also top up later in Settings → Account."
+ },
+ {
+  "ns": "settings.account",
+  "key": "quotaTopUp",
+  "en": "Top up"
+ },
+ {
+  "ns": "settings.account",
+  "key": "bonusNoticeTitle",
+  "en": "Bonus credited"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "tab",
+  "en": "Plugin list"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "loading",
+  "en": "Reading plugins…"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "clientSyncing",
+  "en": "Syncing plugins on this page…"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "clientSyncFailed",
+  "en": "Some plugins could not sync on this page. Host enablement is unchanged."
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "clientSyncRetry",
+  "en": "Retry this page"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "error",
+  "en": "Plugins are temporarily unavailable."
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "metadataError",
+  "en": "Package metadata error: {error}"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "search",
+  "en": "Search plugins"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "empty",
+  "en": "No plugins are available."
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "emptySearch",
+  "en": "No matching plugins."
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "presetTitle",
+  "en": "Session plugins"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "presetSubtitle",
+  "en": "Composed per session by agent presets"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "countUnit",
+  "en": "plugins"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "switcherLabel",
+  "en": "Choose the agent preset to inspect"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "presetOptionDefault",
+  "en": "{name} (default)"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "presetOptionBroken",
+  "en": "{name} (failed to load)"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "globalTitle",
+  "en": "Global plugins"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "globalSubtitle",
+  "en": "Shared by the system and every session"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "presetProvidedDetail",
+  "en": "Disabled globally; agent presets provide it per session"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "enabledIn",
+  "en": "Enabled in"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "viewInPreset",
+  "en": "View in the preset group"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "matchesInOtherPresets",
+  "en": "{count} more matches in other presets: "
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "failedCountLabel",
+  "en": "failed"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "enabledTag",
+  "en": "Enabled"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "disabledTag",
+  "en": "Disabled"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "conditionalTag",
+  "en": "Conditional"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "presetEnabledTag",
+  "en": "Via presets"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "failedTag",
+  "en": "Failed"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "moduleLabel",
+  "en": "Module"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "fromPreset",
+  "en": "From"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "condition",
+  "en": "Disabled when"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "configuration",
+  "en": "Configuration"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "runtime",
+  "en": "Status"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "unobserved",
+  "en": "Not running"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "pending",
+  "en": "Waiting for dependencies"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "loadingPhase",
+  "en": "Loading"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "active",
+  "en": "Running"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "failed",
+  "en": "Failed to start"
+ },
+ {
+  "ns": "settings.pluginInventory",
+  "key": "unloading",
+  "en": "Unloading"
+ },
+ {
+  "ns": "job",
+  "key": "count.live.one",
+  "en": "{count} background job running"
+ },
+ {
+  "ns": "job",
+  "key": "count.live.other",
+  "en": "{count} background jobs running"
+ },
+ {
+  "ns": "job",
+  "key": "count.idle.one",
+  "en": "{count} background job"
+ },
+ {
+  "ns": "job",
+  "key": "count.idle.other",
+  "en": "{count} background jobs"
+ },
+ {
+  "ns": "job",
+  "key": "list.aria",
+  "en": "Background jobs"
+ },
+ {
+  "ns": "job",
+  "key": "section.live",
+  "en": "Running"
+ },
+ {
+  "ns": "job",
+  "key": "section.settledCount",
+  "en": "Finished {count}"
+ },
+ {
+  "ns": "job",
+  "key": "section.clear",
+  "en": "Clear"
+ },
+ {
+  "ns": "job",
+  "key": "row.expandAria",
+  "en": "Show live output of {label}"
+ },
+ {
+  "ns": "job",
+  "key": "row.collapseAria",
+  "en": "Hide live output of {label}"
+ },
+ {
+  "ns": "job",
+  "key": "kill.stop",
+  "en": "Stop task {label}"
+ },
+ {
+  "ns": "job",
+  "key": "kill.confirm",
+  "en": "Click again to confirm"
+ },
+ {
+  "ns": "job",
+  "key": "kill.confirmAction",
+  "en": "Confirm stop"
+ },
+ {
+  "ns": "job",
+  "key": "kill.failed",
+  "en": "Stop failed"
+ },
+ {
+  "ns": "job",
+  "key": "status.running",
+  "en": "running"
+ },
+ {
+  "ns": "job",
+  "key": "status.stopping",
+  "en": "stopping"
+ },
+ {
+  "ns": "job",
+  "key": "status.completed",
+  "en": "completed"
+ },
+ {
+  "ns": "job",
+  "key": "status.killed",
+  "en": "cancelled"
+ },
+ {
+  "ns": "job",
+  "key": "status.failed",
+  "en": "failed"
+ },
+ {
+  "ns": "job",
+  "key": "duration.seconds",
+  "en": "{seconds}s"
+ },
+ {
+  "ns": "job",
+  "key": "duration.minutes",
+  "en": "{minutes}m {seconds}s"
+ },
+ {
+  "ns": "job",
+  "key": "duration.hours",
+  "en": "{hours}h {minutes}m"
+ },
+ {
+  "ns": "job",
+  "key": "duration.title.live",
+  "en": "Running for {duration}"
+ },
+ {
+  "ns": "job",
+  "key": "duration.title.done",
+  "en": "Took {duration}"
+ },
+ {
+  "ns": "job",
+  "key": "output.gap",
+  "en": "… earlier output dropped …"
+ },
+ {
+  "ns": "job",
+  "key": "output.error",
+  "en": "live output stream interrupted: {error}"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.signal",
+  "en": "signal {signal}"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.exitCode",
+  "en": "exit {code}"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.noExitCode",
+  "en": "no exit code"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.running",
+  "en": "running"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.failed",
+  "en": "failed"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.done",
+  "en": "done"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.copy",
+  "en": "Copy"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.copied",
+  "en": "Copied"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.noOutput",
+  "en": "(no output)"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.collapse",
+  "en": "Collapse"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.collapseAria",
+  "en": "Collapse output"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.expand",
+  "en": "Show {n} more lines"
+ },
+ {
+  "ns": "job",
+  "key": "terminal.expandAria",
+  "en": "Expand {n} collapsed output lines"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.seconds",
+  "en": "{seconds}s"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.minutes",
+  "en": "{minutes}m {seconds}s"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.hours",
+  "en": "{hours}h {minutes}m {seconds}s"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.days",
+  "en": "{days}d"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.daysHours",
+  "en": "{days}d {hours}h"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.months",
+  "en": "~{months}mo"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.monthsDays",
+  "en": "~{months}mo {days}d"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.years",
+  "en": "~{years}y"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.yearsMonths",
+  "en": "~{years}y {months}mo"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.exactDays",
+  "en": "{days}d {hours}h {minutes}m {seconds}s"
+ },
+ {
+  "ns": "subagent",
+  "key": "duration.exactTitle",
+  "en": "Total active duration: {duration}"
+ },
+ {
+  "ns": "subagent",
+  "key": "tokens.thousand",
+  "en": "{value}K"
+ },
+ {
+  "ns": "subagent",
+  "key": "tokens.million",
+  "en": "{value}M"
+ },
+ {
+  "ns": "subagent",
+  "key": "tokens.total",
+  "en": "{value} tok"
+ },
+ {
+  "ns": "subagent",
+  "key": "loading.label",
+  "en": "Loading subagents…"
+ },
+ {
+  "ns": "subagent",
+  "key": "load.error",
+  "en": "Unable to load subagents"
+ },
+ {
+  "ns": "subagent",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "subagent",
+  "key": "mode.oneShot",
+  "en": "one-shot"
+ },
+ {
+  "ns": "subagent",
+  "key": "mode.continuable",
+  "en": "continuable"
+ },
+ {
+  "ns": "subagent",
+  "key": "mode.unknown",
+  "en": "unknown mode"
+ },
+ {
+  "ns": "subagent",
+  "key": "readonly.unknown.body",
+  "en": "Read the child session to determine whether it can be continued."
+ },
+ {
+  "ns": "subagent",
+  "key": "activity.running",
+  "en": "running"
+ },
+ {
+  "ns": "subagent",
+  "key": "activity.completed",
+  "en": "completed"
+ },
+ {
+  "ns": "subagent",
+  "key": "activity.inactive",
+  "en": "not running"
+ },
+ {
+  "ns": "subagent",
+  "key": "branch.collapse",
+  "en": "Collapse {label} descendants"
+ },
+ {
+  "ns": "subagent",
+  "key": "branch.expand",
+  "en": "Expand {label} descendants"
+ },
+ {
+  "ns": "subagent",
+  "key": "count.total.one",
+  "en": "{count} subagent"
+ },
+ {
+  "ns": "subagent",
+  "key": "count.total.other",
+  "en": "{count} subagents"
+ },
+ {
+  "ns": "subagent",
+  "key": "count.running.one",
+  "en": "{count} subagent running"
+ },
+ {
+  "ns": "subagent",
+  "key": "count.running.other",
+  "en": "{count} subagents running"
+ },
+ {
+  "ns": "subagent",
+  "key": "switcher.aria",
+  "en": "Switch subagent: {title}"
+ },
+ {
+  "ns": "subagent",
+  "key": "tree.aria",
+  "en": "Subagent sessions"
+ },
+ {
+  "ns": "subagent",
+  "key": "open.sidebar",
+  "en": "Open in sidebar"
+ },
+ {
+  "ns": "subagent",
+  "key": "open.sidebar.aria",
+  "en": "Open {label} in sidebar"
+ },
+ {
+  "ns": "subagent",
+  "key": "sidebar.chat",
+  "en": "Chat"
+ },
+ {
+  "ns": "subagent",
+  "key": "readonly.oneShot.title",
+  "en": "One-shot subagent record"
+ },
+ {
+  "ns": "subagent",
+  "key": "readonly.title",
+  "en": "This subagent is read-only for now"
+ },
+ {
+  "ns": "subagent",
+  "key": "readonly.oneShot.body",
+  "en": "One-shot tasks do not accept follow-ups; review the full execution record here."
+ },
+ {
+  "ns": "subagent",
+  "key": "readonly.body",
+  "en": "The parent session is offline; reopen it to continue sending messages."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "overridden",
+  "en": "Overridden"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "reset",
+  "en": "Reset to default"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "readOnly",
+  "en": "This deployment stores settings read-only."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "unavailable",
+  "en": "This plugin is not loaded, so it cannot be configured right now."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "save",
+  "en": "Save"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "saving",
+  "en": "Saving…"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "saveFailed",
+  "en": "The deployment did not accept these values; they were left for you to correct."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentTitle",
+  "en": "Subagent"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentDescription",
+  "en": "Set Subagent recursion depth, count, and models."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentLimitsTitle",
+  "en": "Limits"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentMaxDepth",
+  "en": "Maximum recursion depth"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentDepthHelpLabel",
+  "en": "About maximum recursion depth"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentDepthHelp",
+  "en": "Limits how many levels of Subagents an Agent can create."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentDepthZero",
+  "en": "Disable Subagents"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentDepthOne",
+  "en": "Only the main Agent can create Subagents"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentDepthOverride",
+  "en": "If a tool defines its own maximum recursion depth, that setting takes precedence."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentMaxActive",
+  "en": "Subagent parallelism limit"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentCapacityHelpLabel",
+  "en": "About the Subagent parallelism limit"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentCapacityHelp",
+  "en": "Total live Subagents under the same main Agent, across all recursion levels. The main Agent is excluded. New start requests are rejected when the limit is reached."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentDepthInvalid",
+  "en": "Enter a whole number of 0 or more."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentCapacityInvalid",
+  "en": "Enter a whole number of 1 or more."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionTitle",
+  "en": "Model selection"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionToggle",
+  "en": "Allow agents to choose models for Subagents"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionChoose",
+  "en": "When enabled, agents can choose a provider, model, and reasoning effort for each Subagent from the authorized models below. Applies only to new sessions."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionAllowed",
+  "en": "Models agents may choose"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionLoading",
+  "en": "Loading models…"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionLoadFailed",
+  "en": "Models could not be loaded."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionRetry",
+  "en": "Retry"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionPartial",
+  "en": "Some model providers could not be loaded; saved choices remain removable."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionUnavailable",
+  "en": "Currently unavailable"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionUnavailableGroup",
+  "en": "Saved but currently unavailable"
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionEmpty",
+  "en": "No model provider currently advertises a model."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionRequired",
+  "en": "Select at least one model before saving."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionConflict",
+  "en": "Settings changed elsewhere. Discard your draft and try again."
+ },
+ {
+  "ns": "settings.subagent",
+  "key": "subagentModelSelectionOff",
+  "en": "Subagents use configured defaults or inherit the parent agent's model. Saved model choices are retained."
+ },
+ {
+  "ns": "goal",
+  "key": "phase.active",
+  "en": "Ongoing Goal"
+ },
+ {
+  "ns": "goal",
+  "key": "phase.active.disarmed",
+  "en": "Inactive Goal"
+ },
+ {
+  "ns": "goal",
+  "key": "phase.paused",
+  "en": "Paused Goal"
+ },
+ {
+  "ns": "goal",
+  "key": "phase.blocked",
+  "en": "Blocked Goal"
+ },
+ {
+  "ns": "goal",
+  "key": "objective.aria",
+  "en": "Goal objective"
+ },
+ {
+  "ns": "goal",
+  "key": "commandInput.aria",
+  "en": "Command input"
+ },
+ {
+  "ns": "goal",
+  "key": "action.save",
+  "en": "Save goal"
+ },
+ {
+  "ns": "goal",
+  "key": "action.cancel",
+  "en": "Cancel edit"
+ },
+ {
+  "ns": "goal",
+  "key": "action.pause",
+  "en": "Pause goal"
+ },
+ {
+  "ns": "goal",
+  "key": "action.resume",
+  "en": "Resume goal"
+ },
+ {
+  "ns": "goal",
+  "key": "action.edit",
+  "en": "Edit goal"
+ },
+ {
+  "ns": "goal",
+  "key": "action.clear",
+  "en": "Clear goal"
+ },
+ {
+  "ns": "shortcuts.layout",
+  "key": "toggle",
+  "en": "Toggle left sidebar"
+ }
+]

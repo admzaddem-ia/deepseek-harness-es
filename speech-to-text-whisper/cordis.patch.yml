@@ -1,0 +1,13 @@
+# Proveedor local de voz Whisper (multilingüe, con español) sobre el runtime sherpa-onnx ya
+# instalado. Inserta la fila del proveedor y hace que la selección por defecto use Whisper en
+# español; volver a SenseVoice requiere elegir uno de sus idiomas (auto/zh/en/yue/ja/ko).
+- insert:
+    - id: speech-to-text-whisper
+      name: '@local/dsh-speech-to-text-whisper'
+      config:
+        dataRoot: !!js dshHomePath('speech-to-text', 'whisper')
+- id: speech-to-text
+  name: '@deepseek-ai/dsh-experimental-speech-to-text'
+  config:
+    defaultProvider: whisper-local
+    language: es

@@ -1,0 +1,1302 @@
+[
+ {
+  "ns": "trajectory",
+  "key": "view.trajectory",
+  "en": "Trajectory"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.aria",
+  "en": "Trajectory toolbar"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.duration",
+  "en": "Duration"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.useActualDuration",
+  "en": "Use actual duration"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.useEqualWidth",
+  "en": "Use equal-width operations"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.actualTime",
+  "en": "Actual time"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.turns",
+  "en": "Turns"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.expandTurns",
+  "en": "Expand turns"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.collapseTurns",
+  "en": "Collapse turns"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.calls",
+  "en": "Calls"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.expandCalls",
+  "en": "Expand calls"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.collapseCalls",
+  "en": "Collapse calls"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.search",
+  "en": "Search trajectory"
+ },
+ {
+  "ns": "trajectory",
+  "key": "toolbar.searchPlaceholder",
+  "en": "Search"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.system",
+  "en": "SYSTEM"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.user",
+  "en": "USER"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.context",
+  "en": "CONTEXT"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.compacted",
+  "en": "COMPACTED"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.message",
+  "en": "Message"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.assistant",
+  "en": "ASSISTANT"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.tool",
+  "en": "TOOL"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.subtool",
+  "en": "SUBTOOL"
+ },
+ {
+  "ns": "trajectory",
+  "key": "kind.sub",
+  "en": "Sub"
+ },
+ {
+  "ns": "trajectory",
+  "key": "column.input",
+  "en": "Input"
+ },
+ {
+  "ns": "trajectory",
+  "key": "column.output",
+  "en": "Output"
+ },
+ {
+  "ns": "trajectory",
+  "key": "column.think",
+  "en": "Think"
+ },
+ {
+  "ns": "trajectory",
+  "key": "column.time",
+  "en": "Time"
+ },
+ {
+  "ns": "trajectory",
+  "key": "column.model",
+  "en": "Model"
+ },
+ {
+  "ns": "trajectory",
+  "key": "column.tools",
+  "en": "Tools"
+ },
+ {
+  "ns": "trajectory",
+  "key": "turn.label",
+  "en": "Turn {turn}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "section.betweenTurns",
+  "en": "Between turns"
+ },
+ {
+  "ns": "trajectory",
+  "key": "group.message",
+  "en": "Message"
+ },
+ {
+  "ns": "trajectory",
+  "key": "group.step",
+  "en": "Step {step}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "group.compaction",
+  "en": "Compaction {seq}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "status.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "trajectory",
+  "key": "status.pending",
+  "en": "Pending"
+ },
+ {
+  "ns": "trajectory",
+  "key": "status.completed",
+  "en": "Completed"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.notAvailable",
+  "en": "Not available"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.notRecorded",
+  "en": "Not recorded"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.stepStartUnavailable",
+  "en": "Step start unavailable"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.firstTokenUnavailable",
+  "en": "First token unavailable"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.usageUnavailable",
+  "en": "Usage unavailable"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.outputTokensUnavailable",
+  "en": "Output tokens unavailable"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.durationTooShort",
+  "en": "Duration too short"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.showLocalTime",
+  "en": "Show local time"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.showUnixTimestamp",
+  "en": "Show Unix timestamp"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.started",
+  "en": "Started"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.totalDuration",
+  "en": "Total duration"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.ttft",
+  "en": "TTFT"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.generation",
+  "en": "Generation"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.throughput",
+  "en": "Throughput"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.duration",
+  "en": "Duration"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.source",
+  "en": "Timing source"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.sessionTimestamps",
+  "en": "Session timestamps"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.sessionTimestampsRunning",
+  "en": "Session timestamps (running)"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timing.request",
+  "en": "Request Timing"
+ },
+ {
+  "ns": "trajectory",
+  "key": "unit.milliseconds",
+  "en": "{value} ms"
+ },
+ {
+  "ns": "trajectory",
+  "key": "unit.seconds",
+  "en": "{value} s"
+ },
+ {
+  "ns": "trajectory",
+  "key": "unit.tokens",
+  "en": "{value} tok"
+ },
+ {
+  "ns": "trajectory",
+  "key": "unit.tokensPerSecond",
+  "en": "{value} tok/s"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.tokens",
+  "en": "Tokens"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.reasoning",
+  "en": "Reasoning"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.content",
+  "en": "Content"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.notReported",
+  "en": "Usage not reported"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.input",
+  "en": "Input"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.cached",
+  "en": "Cached"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.cacheCreated",
+  "en": "Cache created"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.other",
+  "en": "Other"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.output",
+  "en": "Output"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.thisRequest",
+  "en": "This request"
+ },
+ {
+  "ns": "trajectory",
+  "key": "usage.sessionCumulative",
+  "en": "Session cumulative"
+ },
+ {
+  "ns": "trajectory",
+  "key": "options.notRecorded",
+  "en": "Options not recorded"
+ },
+ {
+  "ns": "trajectory",
+  "key": "options.json",
+  "en": "Request options JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.unknown",
+  "en": "Unknown"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.user",
+  "en": "User"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.plugin",
+  "en": "Plugin"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.pluginNamed",
+  "en": "Plugin · {plugin}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.goal",
+  "en": "Goal"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.goalRound",
+  "en": "Goal · Round {round}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.notRecorded",
+  "en": "Source not recorded"
+ },
+ {
+  "ns": "trajectory",
+  "key": "source.messageJson",
+  "en": "Message source JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.summary",
+  "en": "Summary"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.rawOutput",
+  "en": "Raw Output"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.preview",
+  "en": "Preview"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.raw",
+  "en": "Raw"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.source",
+  "en": "Source"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.payload",
+  "en": "Payload"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.result",
+  "en": "Result"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.schema",
+  "en": "Schema"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.timing",
+  "en": "Timing"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.diff",
+  "en": "Diff"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.systemPrompt",
+  "en": "System Prompt"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.tools",
+  "en": "Tools"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.options",
+  "en": "Options"
+ },
+ {
+  "ns": "trajectory",
+  "key": "tab.usage",
+  "en": "Usage"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.toolCallOnly",
+  "en": "(tool call only)"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.noContent",
+  "en": "No content"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.noPayload",
+  "en": "No payload captured"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.noResult",
+  "en": "No result captured"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.noOutput",
+  "en": "No output"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.schemaUnavailable",
+  "en": "Schema unavailable"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.parameters",
+  "en": "Parameters"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.resultJson",
+  "en": "Result JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.json",
+  "en": "JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.parametersJson",
+  "en": "parameters JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.namedParametersJson",
+  "en": "{name} parameters JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.payloadJson",
+  "en": "Payload JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.outputJson",
+  "en": "Result JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.thinking",
+  "en": "Thinking"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.wrapLines",
+  "en": "Wrap lines"
+ },
+ {
+  "ns": "trajectory",
+  "key": "code.source",
+  "en": "Code"
+ },
+ {
+  "ns": "trajectory",
+  "key": "code.output",
+  "en": "Output"
+ },
+ {
+  "ns": "trajectory",
+  "key": "code.copySource",
+  "en": "Copy code"
+ },
+ {
+  "ns": "trajectory",
+  "key": "code.copyOutput",
+  "en": "Copy output"
+ },
+ {
+  "ns": "trajectory",
+  "key": "code.originalJson",
+  "en": "Original JSON"
+ },
+ {
+  "ns": "trajectory",
+  "key": "code.running",
+  "en": "Running…"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.systemPromptMissing",
+  "en": "No system prompt in this request"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.toolsMissing",
+  "en": "No tools in this request"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.systemPrompt",
+  "en": "System Prompt"
+ },
+ {
+  "ns": "trajectory",
+  "key": "record.tools",
+  "en": "Tools"
+ },
+ {
+  "ns": "trajectory",
+  "key": "block.openSummary",
+  "en": "Open Block #{index} tool call summary"
+ },
+ {
+  "ns": "trajectory",
+  "key": "block.openSummaryTitle",
+  "en": "Open tool call summary"
+ },
+ {
+  "ns": "trajectory",
+  "key": "block.label",
+  "en": "Block #{index} {type}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "history.loadingTrajectory",
+  "en": "Loading trajectory…"
+ },
+ {
+  "ns": "trajectory",
+  "key": "history.loadingEarlier",
+  "en": "Loading earlier history…"
+ },
+ {
+  "ns": "trajectory",
+  "key": "history.loadingEarlierAria",
+  "en": "Loading earlier history…"
+ },
+ {
+  "ns": "trajectory",
+  "key": "history.loadEarlier",
+  "en": "Load earlier history"
+ },
+ {
+  "ns": "trajectory",
+  "key": "history.clickToLoadEarlier",
+  "en": "Click to load earlier history"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.label",
+  "en": "Request #{request}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.labelCompaction",
+  "en": "Request #{request} · Compaction"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.compaction",
+  "en": "Compaction · {section}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.compactionPurpose",
+  "en": "Compaction"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.retryProgress",
+  "en": "{retry} of {maximum}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.collapsedSummary",
+  "en": "Collapsed {kind} summary, {summary}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.collapsedTurn",
+  "en": "turn"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.collapsedAssistant",
+  "en": "assistant"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.rowAria",
+  "en": "{request}{kind}, {content}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.rowPrefix",
+  "en": "Request {request}, "
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.rowAriaCompaction",
+  "en": "Request {request}, compaction"
+ },
+ {
+  "ns": "trajectory",
+  "key": "request.noContent",
+  "en": "no content"
+ },
+ {
+  "ns": "trajectory",
+  "key": "summary.toolCalls.one",
+  "en": "{count} tool call"
+ },
+ {
+  "ns": "trajectory",
+  "key": "summary.toolCalls.other",
+  "en": "{count} tool calls"
+ },
+ {
+  "ns": "trajectory",
+  "key": "summary.steps.one",
+  "en": "{count} step"
+ },
+ {
+  "ns": "trajectory",
+  "key": "summary.steps.other",
+  "en": "{count} steps"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.event",
+  "en": "Event details"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.resize",
+  "en": "Resize event details"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.resizeTitle",
+  "en": "Drag to resize. Double-click to reset."
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.close",
+  "en": "Close details"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.status",
+  "en": "Status"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.purpose",
+  "en": "Purpose"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.provider",
+  "en": "Provider"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.model",
+  "en": "Model"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.toolCalls",
+  "en": "Tool calls"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.subtoolCalls",
+  "en": "Subtool calls"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.error",
+  "en": "Error"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.failure.auth",
+  "en": "API key is invalid"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.scheduled",
+  "en": "Scheduled"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.retryDelay",
+  "en": "Retry delay"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.result",
+  "en": "Result"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.compacted",
+  "en": "Compacted"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.assistantMessage",
+  "en": "Assistant Message"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.source",
+  "en": "Source"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.hierarchy",
+  "en": "Hierarchy"
+ },
+ {
+  "ns": "trajectory",
+  "key": "details.toolCall",
+  "en": "Tool Call"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timeline.aria",
+  "en": "Trajectory timeline"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timeline.overviewAria",
+  "en": "Timeline overview; drag horizontally to focus events"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timeline.noTimingData",
+  "en": "No timing data"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timeline.total",
+  "en": "Total {duration}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timeline.started",
+  "en": "Started {time}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "timeline.ttftDecoding",
+  "en": "TTFT {ttft} · Decoding {decoding}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.compacting",
+  "en": "Compacting context…"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.compactionFailed",
+  "en": "Compaction failed"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.compacted",
+  "en": "Context compacted"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolCallOnly",
+  "en": "Tool call only"
+ },
+ {
+  "ns": "trajectory",
+  "key": "attachment.list",
+  "en": "Attachments"
+ },
+ {
+  "ns": "trajectory",
+  "key": "attachment.imageName",
+  "en": "Image {index}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.imageCount",
+  "en": "Images ×{count}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.fileAttachments",
+  "en": "Files ×{count}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.initialSystemPrompt",
+  "en": "Initial System Prompt"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.systemPromptUpdated",
+  "en": "System Prompt Updated"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolsUpdated",
+  "en": "Tools Updated"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolAdded",
+  "en": "Tool added: {name}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolRemoved",
+  "en": "Tool removed: {name}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolUpdateNotice",
+  "en": "Tools updated"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolsAdded",
+  "en": "Added: {names}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolsAddedCount",
+  "en": "{count} added"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolsChanged",
+  "en": "{added} added, {removed} removed"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolsRemoved",
+  "en": "Removed: {names}"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.toolsRemovedCount",
+  "en": "{count} removed"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.systemPromptAndToolsUpdated",
+  "en": "System Prompt and Tools Updated"
+ },
+ {
+  "ns": "trajectory",
+  "key": "layout.compactionInterrupted",
+  "en": "Compaction was interrupted before completion."
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.nativeUnavailable",
+  "en": "This file has no available Host path. Preview it in the sidebar."
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.revealError",
+  "en": "Could not show in file manager. Try again."
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.directoryError",
+  "en": "Could not open containing folder. Try again."
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.directoryOpening",
+  "en": "Opening containing folder…"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.directoryOpened",
+  "en": "Requested opening containing folder"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.revealed",
+  "en": "Requested display in file manager"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.revealing",
+  "en": "Showing in file manager…"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.unavailable",
+  "en": "This Host has no desktop available to open files or folders in external apps. Files can still be previewed in the sidebar."
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.hostError",
+  "en": "Could not read the Host desktop information"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.preview",
+  "en": "Preview in sidebar"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.previewButton",
+  "en": "Open {name} in sidebar"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.previewCard",
+  "en": "Preview {name} in sidebar"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.all",
+  "en": "All {count} files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.expandAria",
+  "en": "Show all {count} delivered files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.collapse",
+  "en": "Collapse"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.collapseAria",
+  "en": "Collapse delivered files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.opening",
+  "en": "Opening…"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.opened",
+  "en": "Open requested"
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.error",
+  "en": "Could not open. Click to retry."
+ },
+ {
+  "ns": "deliverables",
+  "key": "presented.file",
+  "en": "File"
+ },
+ {
+  "ns": "deliverables",
+  "key": "row.title",
+  "en": "Present files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "row.running",
+  "en": "Delivering"
+ },
+ {
+  "ns": "deliverables",
+  "key": "row.preparing",
+  "en": "Preparing deliverables"
+ },
+ {
+  "ns": "deliverables",
+  "key": "row.ok",
+  "en": "Delivered"
+ },
+ {
+  "ns": "deliverables",
+  "key": "row.error",
+  "en": "Delivery failed"
+ },
+ {
+  "ns": "deliverables",
+  "key": "row.stopped",
+  "en": "Interrupted"
+ },
+ {
+  "ns": "deliverables",
+  "key": "row.inspect",
+  "en": "Inspect call"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.title",
+  "en": "Edited {count} files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.singleTitle",
+  "en": "Edited {name}"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.added",
+  "en": "+{count}"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.deleted",
+  "en": "-{count}"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.binary",
+  "en": "binary"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.openReview",
+  "en": "Review this turn’s changes in the sidebar"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.all",
+  "en": "All {count} files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.expandAria",
+  "en": "Show all {count} changed files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.collapse",
+  "en": "Collapse"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.collapseAria",
+  "en": "Collapse changed files"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.oversized",
+  "en": "too large"
+ },
+ {
+  "ns": "deliverables",
+  "key": "changes.viewDiff",
+  "en": "View changes to {name}"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.title",
+  "en": "Review · turn {turn}"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.selectFile",
+  "en": "Choose the file to review"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.split",
+  "en": "Switch to split view"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.unified",
+  "en": "Switch to unified view"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.splitAria",
+  "en": "Split view"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.wrap",
+  "en": "Enable line wrap"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.nowrap",
+  "en": "Disable line wrap"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.wrapAria",
+  "en": "Line wrap"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.openFile",
+  "en": "Open the whole file in the sidebar"
+ },
+ {
+  "ns": "deliverables",
+  "key": "review.openFileAria",
+  "en": "Open {name} in sidebar"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.loading",
+  "en": "Reading changes…"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.missing",
+  "en": "The contents of this turn’s changes are no longer available"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.error",
+  "en": "Could not read the changes"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.binary",
+  "en": "Binary file; changes cannot be shown"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.oversized",
+  "en": "File too large; changes cannot be shown"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.created",
+  "en": "Created in this turn"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.deleted",
+  "en": "Deleted in this turn"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.unchanged",
+  "en": "Both sides hold the same lines"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.coarse",
+  "en": "Line comparison timed out; shown as a whole-file replacement"
+ },
+ {
+  "ns": "deliverables",
+  "key": "diff.truncated",
+  "en": "Showing the first {count} lines"
+ },
+ {
+  "ns": "skill",
+  "key": "row.title",
+  "en": "Skill"
+ },
+ {
+  "ns": "skill",
+  "key": "row.running",
+  "en": "Loading skill"
+ },
+ {
+  "ns": "skill",
+  "key": "row.preparing",
+  "en": "Preparing to load a skill"
+ },
+ {
+  "ns": "skill",
+  "key": "row.failed",
+  "en": "Skill load failed"
+ },
+ {
+  "ns": "skill",
+  "key": "row.stopped",
+  "en": "Skill load stopped"
+ },
+ {
+  "ns": "skill",
+  "key": "row.instructions",
+  "en": "Instructions"
+ },
+ {
+  "ns": "skill",
+  "key": "row.inspect",
+  "en": "Inspect"
+ },
+ {
+  "ns": "skill",
+  "key": "menu.userOnly",
+  "en": "user-only"
+ }
+]

@@ -1,0 +1,1302 @@
+[
+ {
+  "ns": "workspace",
+  "key": "defaultWorkspace.failed",
+  "en": "Unable to create default workspace. Use Choose workspace to select a folder."
+ },
+ {
+  "ns": "workspace",
+  "key": "group.ungrouped",
+  "en": "Ungrouped"
+ },
+ {
+  "ns": "workspace",
+  "key": "session.new",
+  "en": "New Session"
+ },
+ {
+  "ns": "workspace",
+  "key": "session.untitled",
+  "en": "Untitled"
+ },
+ {
+  "ns": "workspace",
+  "key": "shortcut.noSession",
+  "en": "Select a session first"
+ },
+ {
+  "ns": "workspace",
+  "key": "shortcut.noPicker",
+  "en": "Directory picker unavailable"
+ },
+ {
+  "ns": "workspace",
+  "key": "shortcut.directoryBusy",
+  "en": "Selecting or adding a workspace"
+ },
+ {
+  "ns": "workspace",
+  "key": "shortcut.noCompletedTurn",
+  "en": "This session has no completed turn"
+ },
+ {
+  "ns": "workspace",
+  "key": "shortcut.forkFailed",
+  "en": "Could not fork the session. Try again."
+ },
+ {
+  "ns": "workspace",
+  "key": "section.workspaces",
+  "en": "Workspaces"
+ },
+ {
+  "ns": "workspace",
+  "key": "section.sessions",
+  "en": "Sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "viewOptions.label",
+  "en": "View options"
+ },
+ {
+  "ns": "workspace",
+  "key": "groupBy.label",
+  "en": "Group by"
+ },
+ {
+  "ns": "workspace",
+  "key": "groupBy.workspace",
+  "en": "WorkSpace"
+ },
+ {
+  "ns": "workspace",
+  "key": "groupBy.workspaceTree",
+  "en": "Workspace Tree"
+ },
+ {
+  "ns": "workspace",
+  "key": "groupBy.flat",
+  "en": "In one list"
+ },
+ {
+  "ns": "workspace",
+  "key": "orderBy.label",
+  "en": "Order by"
+ },
+ {
+  "ns": "workspace",
+  "key": "orderBy.manual",
+  "en": "Manual"
+ },
+ {
+  "ns": "workspace",
+  "key": "orderBy.updated",
+  "en": "Last updated"
+ },
+ {
+  "ns": "workspace",
+  "key": "filterBy.label",
+  "en": "Filter sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "viewOptions.hideArchived",
+  "en": "Hide archived"
+ },
+ {
+  "ns": "workspace",
+  "key": "viewOptions.showArchived",
+  "en": "All conversations (show archived)"
+ },
+ {
+  "ns": "workspace",
+  "key": "viewOptions.onlyArchived",
+  "en": "Archived only"
+ },
+ {
+  "ns": "workspace",
+  "key": "sessions.expand",
+  "en": "Show {n} more sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "sessions.collapse",
+  "en": "Show less"
+ },
+ {
+  "ns": "workspace",
+  "key": "empty.none",
+  "en": "No sessions yet"
+ },
+ {
+  "ns": "workspace",
+  "key": "empty.noneArchived",
+  "en": "No archived sessions yet"
+ },
+ {
+  "ns": "workspace",
+  "key": "empty.viewOthers",
+  "en": "View other sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "empty.noMatches",
+  "en": "No matches"
+ },
+ {
+  "ns": "workspace",
+  "key": "workspace.add",
+  "en": "Add workspace"
+ },
+ {
+  "ns": "workspace",
+  "key": "search.sessions.aria",
+  "en": "Search sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "search.placeholder",
+  "en": "Search session names"
+ },
+ {
+  "ns": "workspace",
+  "key": "search.clear",
+  "en": "Clear search"
+ },
+ {
+  "ns": "workspace",
+  "key": "search.results.aria",
+  "en": "Search results"
+ },
+ {
+  "ns": "workspace",
+  "key": "search.pending",
+  "en": "Searching session history…"
+ },
+ {
+  "ns": "workspace",
+  "key": "search.noMatches",
+  "en": "No matching sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "search.hasMore",
+  "en": "Showing the first {n} results. Narrow your search."
+ },
+ {
+  "ns": "workspace",
+  "key": "menu.addWorkspace",
+  "en": "Add workspace…"
+ },
+ {
+  "ns": "workspace",
+  "key": "picker.loading",
+  "en": "Loading workspaces…"
+ },
+ {
+  "ns": "workspace",
+  "key": "conflict.named",
+  "en": "A workspace named “{name}” already exists."
+ },
+ {
+  "ns": "workspace",
+  "key": "folderError.title",
+  "en": "Couldn’t open folder"
+ },
+ {
+  "ns": "workspace",
+  "key": "folderError.retry",
+  "en": "Choose again"
+ },
+ {
+  "ns": "workspace",
+  "key": "rename",
+  "en": "Rename"
+ },
+ {
+  "ns": "workspace",
+  "key": "rename.workspace.title",
+  "en": "Rename workspace"
+ },
+ {
+  "ns": "workspace",
+  "key": "rename.session.title",
+  "en": "Rename session"
+ },
+ {
+  "ns": "workspace",
+  "key": "field.workspaceName",
+  "en": "Workspace name"
+ },
+ {
+  "ns": "workspace",
+  "key": "field.sessionName",
+  "en": "Session name"
+ },
+ {
+  "ns": "workspace",
+  "key": "delete.workspace",
+  "en": "Delete workspace"
+ },
+ {
+  "ns": "workspace",
+  "key": "delete.desc",
+  "en": "This removes “{name}” from the workspace list. The folder and session logs will be kept. Its sessions will appear under Ungrouped."
+ },
+ {
+  "ns": "workspace",
+  "key": "delete.pending",
+  "en": "Deleting workspace…"
+ },
+ {
+  "ns": "workspace",
+  "key": "menu.fork",
+  "en": "Fork session"
+ },
+ {
+  "ns": "workspace",
+  "key": "menu.archiveSession",
+  "en": "Archive session"
+ },
+ {
+  "ns": "workspace",
+  "key": "menu.unarchiveSession",
+  "en": "Unarchive session"
+ },
+ {
+  "ns": "workspace",
+  "key": "menu.pinSession",
+  "en": "Pin session"
+ },
+ {
+  "ns": "workspace",
+  "key": "menu.unpinSession",
+  "en": "Unpin session"
+ },
+ {
+  "ns": "workspace",
+  "key": "row.archived",
+  "en": "Archived"
+ },
+ {
+  "ns": "workspace",
+  "key": "row.pinned",
+  "en": "Pinned"
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.archivedNotOpenable",
+  "en": "Archived sessions cannot be opened. Unarchive it to view."
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.archived",
+  "en": "Session archived. You can "
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.stoppedAndArchived",
+  "en": "Session stopped and archived. You can "
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.title",
+  "en": "Stop and archive this session?"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.desc",
+  "en": "“{title}” still has work in progress. Archiving stops it first; you can restore the session later from the “All conversations (show archived)” filter in the sidebar, and the stopped work will not resume on its own."
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.activity",
+  "en": "Work that will be stopped"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.turn",
+  "en": "The turn in progress"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.subagents.one",
+  "en": "{n} running subagent: {names}"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.subagents.other",
+  "en": "{n} running subagents: {names}"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.jobs.one",
+  "en": "{n} background job: {names}"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.jobs.other",
+  "en": "{n} background jobs: {names}"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.schedules.one",
+  "en": "{n} scheduled reminder: {names}"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.schedules.other",
+  "en": "{n} scheduled reminders: {names}"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.other.one",
+  "en": "{n} other item of work ({kind})"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.other.other",
+  "en": "{n} other items of work ({kind})"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.listSeparator",
+  "en": ", "
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.action",
+  "en": "Stop and archive"
+ },
+ {
+  "ns": "workspace",
+  "key": "archive.confirm.pending",
+  "en": "Stopping and archiving…"
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.archivedUndo",
+  "en": "undo"
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.archivedOr",
+  "en": " or "
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.archivedFilter",
+  "en": "filter archived sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.pinFailed",
+  "en": "Pin failed. Try again later."
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.unpinFailed",
+  "en": "Unpin failed. Try again later."
+ },
+ {
+  "ns": "workspace",
+  "key": "toast.createFailed",
+  "en": "New session failed: {message}"
+ },
+ {
+  "ns": "workspace",
+  "key": "sessions.count.one",
+  "en": "{n} session"
+ },
+ {
+  "ns": "workspace",
+  "key": "sessions.count.other",
+  "en": "{n} sessions"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.workspace.aria",
+  "en": "Workspace actions for {name}"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.session.aria",
+  "en": "Session actions for {name}"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.archive",
+  "en": "Archive"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.unarchive",
+  "en": "Unarchive"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.pin",
+  "en": "Pin"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.unpin",
+  "en": "Unpin"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.newSession",
+  "en": "New session"
+ },
+ {
+  "ns": "workspace",
+  "key": "actions.newSession.aria",
+  "en": "New session in {name}"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.running",
+  "en": "Running"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.subagentsRunning.one",
+  "en": "{n} subagent running"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.subagentsRunning.other",
+  "en": "{n} subagents running"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.idle",
+  "en": "Idle"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.waitingApproval",
+  "en": "Waiting for approval"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.planReview",
+  "en": "Plan awaiting review"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.waitingAnswer",
+  "en": "Waiting for answer"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.compact.approval",
+  "en": "Approval"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.compact.planReview",
+  "en": "Plan review"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.compact.answer",
+  "en": "Answer"
+ },
+ {
+  "ns": "workspace",
+  "key": "status.completed",
+  "en": "Completed"
+ },
+ {
+  "ns": "workspace",
+  "key": "hover.created",
+  "en": "Created {time}"
+ },
+ {
+  "ns": "workspace",
+  "key": "hover.copied",
+  "en": "Copied"
+ },
+ {
+  "ns": "workspace",
+  "key": "date.ymd",
+  "en": "{y}-{m}-{d}"
+ },
+ {
+  "ns": "workspace",
+  "key": "time.now",
+  "en": "now"
+ },
+ {
+  "ns": "workspace",
+  "key": "time.minutes",
+  "en": "{n}min"
+ },
+ {
+  "ns": "workspace",
+  "key": "time.hours",
+  "en": "{n}h"
+ },
+ {
+  "ns": "workspace",
+  "key": "time.days",
+  "en": "{n}d"
+ },
+ {
+  "ns": "workspace",
+  "key": "time.months",
+  "en": "{n}mo"
+ },
+ {
+  "ns": "workspace",
+  "key": "time.years",
+  "en": "{n}y"
+ },
+ {
+  "ns": "workspace",
+  "key": "time.ago",
+  "en": "{t} ago"
+ },
+ {
+  "ns": "voice-input",
+  "key": "dictate",
+  "en": "Dictate"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.title",
+  "en": "Set up voice input before recording"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.body",
+  "en": "Voice input is enabled. First use requires downloading and preparing local recognition models. Open the plugin details to review disk space, memory and time estimates before starting setup."
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.later",
+  "en": "Later"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.open",
+  "en": "Go to setup"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.trigger",
+  "en": "Open voice input setup"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.details",
+  "en": "Open voice plugin settings"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.unavailableTitle",
+  "en": "Speech recognition is not ready"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setupPrompt.unavailableBody",
+  "en": "Open the voice plugin details to check recognition status, preparation progress, or errors."
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.local",
+  "en": "Local models will be downloaded to the machine running DSH. No Python or compiler is required."
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.disk",
+  "en": "Disk space"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.diskValue",
+  "en": "Allow about {gb} GB for models, runtime, and download caches"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.memory",
+  "en": "Memory"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.memoryValue",
+  "en": "About {gb} GB with the model loaded; recognition may use more"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.time",
+  "en": "First setup"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.timeValue",
+  "en": "Allow roughly {min}–{max} minutes, depending on the network and machine"
+ },
+ {
+  "ns": "voice-input",
+  "key": "setup.estimateNote",
+  "en": "These are estimates; slow networks may take longer. Downloads are reused; idle models release memory by default."
+ },
+ {
+  "ns": "voice-input",
+  "key": "step.check",
+  "en": "Check local resources"
+ },
+ {
+  "ns": "voice-input",
+  "key": "step.model",
+  "en": "Prepare recognition model"
+ },
+ {
+  "ns": "voice-input",
+  "key": "step.vad",
+  "en": "Prepare voice detection model"
+ },
+ {
+  "ns": "voice-input",
+  "key": "step.verify",
+  "en": "Verify model files"
+ },
+ {
+  "ns": "voice-input",
+  "key": "step.load",
+  "en": "Load {name}"
+ },
+ {
+  "ns": "voice-input",
+  "key": "stepStatus.pending",
+  "en": "Not started"
+ },
+ {
+  "ns": "voice-input",
+  "key": "stepStatus.running",
+  "en": "In progress"
+ },
+ {
+  "ns": "voice-input",
+  "key": "stepStatus.complete",
+  "en": "Completed"
+ },
+ {
+  "ns": "voice-input",
+  "key": "stepStatus.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "voice-input",
+  "key": "stepStatus.cancelled",
+  "en": "Cancelled"
+ },
+ {
+  "ns": "voice-input",
+  "key": "short.downloading",
+  "en": "Downloading"
+ },
+ {
+  "ns": "voice-input",
+  "key": "short.failed",
+  "en": "Setup failed"
+ },
+ {
+  "ns": "voice-input",
+  "key": "retryRecording",
+  "en": "Record again"
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparationSteps",
+  "en": "Preparation steps"
+ },
+ {
+  "ns": "voice-input",
+  "key": "prepare",
+  "en": "Download and prepare"
+ },
+ {
+  "ns": "voice-input",
+  "key": "retryPrepare",
+  "en": "Retry preparation"
+ },
+ {
+  "ns": "voice-input",
+  "key": "cancelPrepare",
+  "en": "Cancel preparation"
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadProgress",
+  "en": "Download progress"
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadBytes",
+  "en": "Download: {completed} / {total} MB, {percent}%"
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadUnknown",
+  "en": "Downloaded {completed} MB"
+ },
+ {
+  "ns": "voice-input",
+  "key": "elapsed",
+  "en": "Waiting {seconds} seconds"
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparationFailed",
+  "en": "Preparation failed: {message}"
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.network",
+  "en": "Cannot download {resource}: connection to the download service failed."
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.dns",
+  "en": "Cannot download {resource}: the download address could not be resolved."
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.timeout",
+  "en": "The download of {resource} timed out."
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.certificate",
+  "en": "Cannot download {resource}: certificate verification failed."
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.http",
+  "en": "Cannot download {resource}: the download service returned HTTP {status}."
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.integrity",
+  "en": "The download of {resource} is incomplete or failed verification."
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.storage",
+  "en": "Cannot save {resource}: insufficient disk space or write permission."
+ },
+ {
+  "ns": "voice-input",
+  "key": "download.unknown",
+  "en": "Could not prepare {resource}."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.network",
+  "en": "Check that the machine running DSH can reach the download source and its model download services. Configure a proxy on that machine if needed, then retry."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.dns",
+  "en": "Check DNS and proxy settings on the machine running DSH. Confirm that it can resolve the download source domain, then retry."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.timeout",
+  "en": "Check the network or proxy connection on the machine running DSH, then retry later. Verified downloaded files are retained."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.certificate",
+  "en": "Check the system clock, trusted certificates and proxy settings on the machine running DSH, then retry."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.http",
+  "en": "Confirm that the download address is available and the proxy can reach the download service, or retry later."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.integrity",
+  "en": "Retry the download. Other completed and verified files are retained."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.storage",
+  "en": "Check available disk space and write permission for the model directory on the machine running DSH, then retry."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadAdvice.unknown",
+  "en": "Check the network, disk space and model directory permissions on the machine running DSH, then retry."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadSource",
+  "en": "Download source: {source}"
+ },
+ {
+  "ns": "voice-input",
+  "key": "sourceChoice",
+  "en": "Model download source"
+ },
+ {
+  "ns": "voice-input",
+  "key": "sourceAuto",
+  "en": "Automatic (recommended)"
+ },
+ {
+  "ns": "voice-input",
+  "key": "sourceHuggingFace",
+  "en": "Hugging Face"
+ },
+ {
+  "ns": "voice-input",
+  "key": "sourceMirror",
+  "en": "HF-Mirror (China mirror)"
+ },
+ {
+  "ns": "voice-input",
+  "key": "sourceAutoHelp",
+  "en": "Prefer the first responding source and try another if a download fails."
+ },
+ {
+  "ns": "voice-input",
+  "key": "sourceManualHelp",
+  "en": "Download only from the selected source. Verified downloaded files are reused."
+ },
+ {
+  "ns": "voice-input",
+  "key": "downloadCode",
+  "en": "Error code: {code}"
+ },
+ {
+  "ns": "voice-input",
+  "key": "reconnecting",
+  "en": "Connecting to speech recognition…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.unprepared",
+  "en": "First use downloads the local recognition models."
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.checking",
+  "en": "Checking local resources…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.loading",
+  "en": "Loading {name}…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.waking",
+  "en": "Waking local speech recognition…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.ready",
+  "en": "Local speech recognition is ready."
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.standby",
+  "en": "Local resources are prepared. Recording wakes the recognizer."
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.cancelled",
+  "en": "Preparation cancelled. Completed downloads are retained."
+ },
+ {
+  "ns": "voice-input",
+  "key": "preparation.cancelling",
+  "en": "Cancelling preparation…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "cloudReady",
+  "en": "Cloud speech recognition is ready."
+ },
+ {
+  "ns": "voice-input",
+  "key": "discard",
+  "en": "Discard transcript"
+ },
+ {
+  "ns": "voice-input",
+  "key": "transcribingShort",
+  "en": "Transcribing…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "wakingShort",
+  "en": "Waking…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "provider",
+  "en": "Recognition service"
+ },
+ {
+  "ns": "voice-input",
+  "key": "language",
+  "en": "Recognition language"
+ },
+ {
+  "ns": "voice-input",
+  "key": "auto",
+  "en": "Detect automatically"
+ },
+ {
+  "ns": "voice-input",
+  "key": "zh",
+  "en": "Chinese"
+ },
+ {
+  "ns": "voice-input",
+  "key": "en",
+  "en": "English"
+ },
+ {
+  "ns": "voice-input",
+  "key": "yue",
+  "en": "Cantonese"
+ },
+ {
+  "ns": "voice-input",
+  "key": "ja",
+  "en": "Japanese"
+ },
+ {
+  "ns": "voice-input",
+  "key": "ko",
+  "en": "Korean"
+ },
+ {
+  "ns": "voice-input",
+  "key": "start",
+  "en": "Start recording"
+ },
+ {
+  "ns": "voice-input",
+  "key": "stop",
+  "en": "Stop and transcribe"
+ },
+ {
+  "ns": "voice-input",
+  "key": "cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "voice-input",
+  "key": "insert",
+  "en": "Insert text"
+ },
+ {
+  "ns": "voice-input",
+  "key": "loading",
+  "en": "Loading recognition services…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "requesting",
+  "en": "Allow microphone access to continue…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "recording",
+  "en": "Recording…"
+ },
+ {
+  "ns": "voice-input",
+  "key": "interrupted",
+  "en": "Recording was interrupted. Please try again."
+ },
+ {
+  "ns": "voice-input",
+  "key": "local",
+  "en": "Audio is recognized on the machine running DSH. If models need downloading, that machine must be able to reach the selected source and its file services. Configure a proxy on that machine if needed."
+ },
+ {
+  "ns": "voice-input",
+  "key": "cloud",
+  "en": "Audio will be sent to the selected cloud service."
+ },
+ {
+  "ns": "voice-input",
+  "key": "empty",
+  "en": "No speech recognized"
+ },
+ {
+  "ns": "voice-input",
+  "key": "cancelled",
+  "en": "Voice input cancelled."
+ },
+ {
+  "ns": "voice-input",
+  "key": "conflict",
+  "en": "Your draft changed. The transcript is preserved and can be inserted at the current cursor."
+ },
+ {
+  "ns": "voice-input",
+  "key": "failed",
+  "en": "Speech recognition failed: {message}"
+ },
+ {
+  "ns": "voice-input",
+  "key": "unavailable",
+  "en": "This browser cannot record audio. Use a browser with microphone support."
+ },
+ {
+  "ns": "voice-input",
+  "key": "permission",
+  "en": "Microphone access is disabled. Allow it in browser and system settings."
+ },
+ {
+  "ns": "voice-input",
+  "key": "tooLarge",
+  "en": "The recording exceeds the service limit. Try a shorter recording."
+ },
+ {
+  "ns": "common",
+  "key": "ok",
+  "en": "OK"
+ },
+ {
+  "ns": "common",
+  "key": "cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "common",
+  "key": "close",
+  "en": "Close"
+ },
+ {
+  "ns": "common",
+  "key": "copy",
+  "en": "Copy"
+ },
+ {
+  "ns": "common",
+  "key": "copied",
+  "en": "Copied"
+ },
+ {
+  "ns": "common",
+  "key": "codeBlock.title",
+  "en": "Code block"
+ },
+ {
+  "ns": "common",
+  "key": "codeBlock.wrap",
+  "en": "Wrap lines"
+ },
+ {
+  "ns": "common",
+  "key": "codeBlock.unwrap",
+  "en": "Do not wrap lines"
+ },
+ {
+  "ns": "common",
+  "key": "copy.failed",
+  "en": "Copy failed"
+ },
+ {
+  "ns": "common",
+  "key": "copy.value",
+  "en": "Copy value"
+ },
+ {
+  "ns": "common",
+  "key": "copy.json",
+  "en": "Copy JSON"
+ },
+ {
+  "ns": "common",
+  "key": "copy.path",
+  "en": "Copy property path"
+ },
+ {
+  "ns": "common",
+  "key": "copy.prettyJson",
+  "en": "Copy pretty JSON"
+ },
+ {
+  "ns": "common",
+  "key": "copy.compactJson",
+  "en": "Copy compact JSON"
+ },
+ {
+  "ns": "common",
+  "key": "copy.optionsHint",
+  "en": "{action}; right-click for copy options"
+ },
+ {
+  "ns": "common",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "common",
+  "key": "loading",
+  "en": "Loading…"
+ },
+ {
+  "ns": "common",
+  "key": "load.failed",
+  "en": "Failed to load"
+ },
+ {
+  "ns": "common",
+  "key": "submit",
+  "en": "Submit"
+ },
+ {
+  "ns": "common",
+  "key": "submitting",
+  "en": "Submitting…"
+ },
+ {
+  "ns": "common",
+  "key": "next",
+  "en": "Next"
+ },
+ {
+  "ns": "common",
+  "key": "previous",
+  "en": "Previous"
+ },
+ {
+  "ns": "common",
+  "key": "skip",
+  "en": "Skip"
+ },
+ {
+  "ns": "common",
+  "key": "delete",
+  "en": "Delete"
+ },
+ {
+  "ns": "common",
+  "key": "edit",
+  "en": "Edit"
+ },
+ {
+  "ns": "common",
+  "key": "save",
+  "en": "Save"
+ },
+ {
+  "ns": "common",
+  "key": "search",
+  "en": "Search"
+ },
+ {
+  "ns": "common",
+  "key": "more",
+  "en": "More"
+ },
+ {
+  "ns": "common",
+  "key": "collapse",
+  "en": "Collapse"
+ },
+ {
+  "ns": "common",
+  "key": "expand",
+  "en": "Expand"
+ },
+ {
+  "ns": "common",
+  "key": "back",
+  "en": "Back"
+ },
+ {
+  "ns": "common",
+  "key": "brand.localBuild",
+  "en": "DSH Local Build"
+ },
+ {
+  "ns": "common",
+  "key": "workspace.defaultName",
+  "en": "Default workspace"
+ },
+ {
+  "ns": "common",
+  "key": "unknown",
+  "en": "Unknown"
+ },
+ {
+  "ns": "common",
+  "key": "none",
+  "en": "None"
+ },
+ {
+  "ns": "common",
+  "key": "truncated",
+  "en": "Truncated"
+ },
+ {
+  "ns": "common",
+  "key": "json.label",
+  "en": "JSON"
+ },
+ {
+  "ns": "common",
+  "key": "markdown.footnotes",
+  "en": "Footnotes"
+ },
+ {
+  "ns": "common",
+  "key": "markdown.truncatedCharacters",
+  "en": "… truncated at {total} characters"
+ },
+ {
+  "ns": "common",
+  "key": "number.thousand",
+  "en": "{value}K"
+ },
+ {
+  "ns": "common",
+  "key": "number.million",
+  "en": "{value}M"
+ },
+ {
+  "ns": "approval",
+  "key": "waiting",
+  "en": "Waiting for approval"
+ },
+ {
+  "ns": "approval",
+  "key": "detail.aria",
+  "en": "Approval details"
+ },
+ {
+  "ns": "approval",
+  "key": "escalation",
+  "en": "Tool {toolName} requests privileged execution"
+ },
+ {
+  "ns": "approval",
+  "key": "reject",
+  "en": "Reject"
+ },
+ {
+  "ns": "approval",
+  "key": "allowOnce",
+  "en": "Allow once"
+ },
+ {
+  "ns": "settings.locale",
+  "key": "language.title",
+  "en": "Language"
+ }
+]

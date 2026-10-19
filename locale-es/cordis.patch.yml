@@ -1,0 +1,6 @@
+# Inserta el paquete del idioma.
+# La preferencia (Ajustes → General → Idioma) la fija el propio cliente con setLocale, que la
+# escribe en el patch del perfil; por eso este patch no declara ningún valor por defecto.
+- insert:
+    - id: locale-es
+      name: '@local/dsh-locale-es'

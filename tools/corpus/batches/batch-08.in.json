@@ -1,0 +1,1302 @@
+[
+ {
+  "ns": "settings",
+  "key": "trigger",
+  "en": "Settings"
+ },
+ {
+  "ns": "settings",
+  "key": "shortcut.open",
+  "en": "Open settings"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.available",
+  "en": "Update"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.checking",
+  "en": "Checking for updates…"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.progress",
+  "en": "{percent}%"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.verifying",
+  "en": "Verifying update files…"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.installing",
+  "en": "Preparing to restart…"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.ready",
+  "en": "Install and Restart"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.retry",
+  "en": "Retry update"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.versionDetail",
+  "en": "{label}: {version}"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.downloadDetail",
+  "en": "Downloading update: {percent}%\nTarget version: {version}"
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.checkFailed",
+  "en": "Could not check for updates. Please try again later."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.downloadFailed",
+  "en": "Could not download the update. Please try again."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.installFailed",
+  "en": "Could not install the update. Please try again later."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.checkNetworkFailed",
+  "en": "Could not check for updates. Check your connection and try again."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.downloadNetworkFailed",
+  "en": "Could not download the update. Check your connection and try again."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.installNetworkFailed",
+  "en": "Could not install the update. Check your connection and try again."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.stopFailed",
+  "en": "Could not safely stop the tasks. The update has not been installed. Please try again later."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.tasksChanged",
+  "en": "New tasks have started. Confirm again to stop the tasks and update."
+ },
+ {
+  "ns": "settings",
+  "key": "desktop.update.tasksUnavailable",
+  "en": "Task status is unavailable. Try updating again when the workspace is ready."
+ },
+ {
+  "ns": "settings",
+  "key": "title",
+  "en": "Settings"
+ },
+ {
+  "ns": "settings",
+  "key": "close",
+  "en": "Close"
+ },
+ {
+  "ns": "settings",
+  "key": "openDocument",
+  "en": "Open configuration file"
+ },
+ {
+  "ns": "settings",
+  "key": "openDocument.error",
+  "en": "Could not open configuration file"
+ },
+ {
+  "ns": "settings",
+  "key": "general.nav",
+  "en": "General"
+ },
+ {
+  "ns": "settings",
+  "key": "general.currentVersion",
+  "en": "Current version: {version}"
+ },
+ {
+  "ns": "settings",
+  "key": "developerTools.title",
+  "en": "Show coding view"
+ },
+ {
+  "ns": "settings",
+  "key": "developerTools.error",
+  "en": "Could not save. Please try again."
+ },
+ {
+  "ns": "settings",
+  "key": "developerTools.description",
+  "en": "Shows trajectory, code diffs, and all Agent presets"
+ },
+ {
+  "ns": "settings",
+  "key": "connection.error",
+  "en": "Disconnected"
+ },
+ {
+  "ns": "settings",
+  "key": "connection.connecting",
+  "en": "Reconnecting"
+ },
+ {
+  "ns": "settings",
+  "key": "connection.connected",
+  "en": "Connected"
+ },
+ {
+  "ns": "settings",
+  "key": "connection.reconnect",
+  "en": "Disconnected, reconnect now"
+ },
+ {
+  "ns": "settings",
+  "key": "connection.restart",
+  "en": "Reconnecting, reconnect now"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.close",
+  "en": "Close current page or window"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.refresh",
+  "en": "Refresh current page"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.noRefresh",
+  "en": "This page cannot be refreshed"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.toggle",
+  "en": "Toggle right sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.fullscreen",
+  "en": "Toggle panel fullscreen"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.noSession",
+  "en": "Select a session first"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.noFocus",
+  "en": "Focus a right sidebar pane first"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.stale",
+  "en": "The page changed; focus it again"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.collapsed",
+  "en": "Expand the right sidebar first"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.float",
+  "en": "This action is unavailable in a floating panel"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.empty",
+  "en": "Open a page first"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.budget",
+  "en": "Two panes is the limit"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "command.width",
+  "en": "Not enough width to split, widen the sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "chrome.expand",
+  "en": "Open sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "chrome.expandAria",
+  "en": "Open right sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "chrome.collapse",
+  "en": "Collapse sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "chrome.collapseAria",
+  "en": "Collapse right sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "chrome.toFullscreen",
+  "en": "Fullscreen"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "chrome.exitFullscreen",
+  "en": "Exit fullscreen"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.emptyPane",
+  "en": "Empty pane"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.splitPane",
+  "en": "Split"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.splitPaneDisabled",
+  "en": "Two panes is the limit"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.splitPaneNarrow",
+  "en": "Not enough width to split, widen the sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.closeTab",
+  "en": "Close"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.addTab",
+  "en": "New tab"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.dockFloat",
+  "en": "Send back to the sidebar"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.closeFloat",
+  "en": "Close"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.drop.center",
+  "en": "Move here"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.drop.left",
+  "en": "Add left split"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.drop.right",
+  "en": "Add right split"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.drop.top",
+  "en": "Add top split"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "dock.drop.bottom",
+  "en": "Add bottom split"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "tab.guide.title",
+  "en": "Start"
+ },
+ {
+  "ns": "sidebarRight",
+  "key": "tab.unavailable",
+  "en": "Nothing here can view this kind of content yet."
+ },
+ {
+  "ns": "question",
+  "key": "error.incomplete",
+  "en": "Please complete this question first."
+ },
+ {
+  "ns": "question",
+  "key": "error.unanswered",
+  "en": "Please select an option or enter a custom answer."
+ },
+ {
+  "ns": "question",
+  "key": "error.unavailable",
+  "en": "Cannot submit right now; try again in a moment."
+ },
+ {
+  "ns": "question",
+  "key": "error.resubmit",
+  "en": "The answer did not arrive before work continued; submit it again."
+ },
+ {
+  "ns": "question",
+  "key": "status.sent",
+  "en": "Reply sent; the panel could not close."
+ },
+ {
+  "ns": "question",
+  "key": "wait.takeTime",
+  "en": "Take time"
+ },
+ {
+  "ns": "question",
+  "key": "wait.countdown",
+  "en": "Continuing in {seconds}s"
+ },
+ {
+  "ns": "question",
+  "key": "wait.paused",
+  "en": "Paused · {seconds}s remaining"
+ },
+ {
+  "ns": "question",
+  "key": "wait.held",
+  "en": "Waiting until you answer"
+ },
+ {
+  "ns": "question",
+  "key": "wait.continued",
+  "en": "Work continued — you can still answer"
+ },
+ {
+  "ns": "question",
+  "key": "review.status",
+  "en": "Answered"
+ },
+ {
+  "ns": "question",
+  "key": "review.skipped",
+  "en": "This question was skipped."
+ },
+ {
+  "ns": "question",
+  "key": "reply.label",
+  "en": "Reply to earlier pending questions"
+ },
+ {
+  "ns": "question",
+  "key": "reply.open",
+  "en": "Open question details"
+ },
+ {
+  "ns": "question",
+  "key": "reply.close",
+  "en": "Close question details"
+ },
+ {
+  "ns": "question",
+  "key": "reply.answerLabel",
+  "en": "Answer: "
+ },
+ {
+  "ns": "question",
+  "key": "reply.skipped",
+  "en": "Skipped"
+ },
+ {
+  "ns": "question",
+  "key": "nav.prev",
+  "en": "Previous question"
+ },
+ {
+  "ns": "question",
+  "key": "nav.next",
+  "en": "Next question"
+ },
+ {
+  "ns": "question",
+  "key": "nav.minimize",
+  "en": "Collapse the question card"
+ },
+ {
+  "ns": "question",
+  "key": "nav.maximize",
+  "en": "Expand the question card"
+ },
+ {
+  "ns": "question",
+  "key": "nav.cancel",
+  "en": "Dismiss all questions"
+ },
+ {
+  "ns": "question",
+  "key": "nav.close",
+  "en": "Close the panel — reopen it from the tool call"
+ },
+ {
+  "ns": "question",
+  "key": "option.recommended",
+  "en": "Recommended"
+ },
+ {
+  "ns": "question",
+  "key": "custom.placeholder",
+  "en": "Type your answer"
+ },
+ {
+  "ns": "question",
+  "key": "action.skip",
+  "en": "Skip"
+ },
+ {
+  "ns": "question",
+  "key": "action.next",
+  "en": "Next"
+ },
+ {
+  "ns": "question",
+  "key": "plan.header",
+  "en": "Plan review"
+ },
+ {
+  "ns": "question",
+  "key": "plan.approve",
+  "en": "Approve"
+ },
+ {
+  "ns": "question",
+  "key": "plan.decline",
+  "en": "Refuse"
+ },
+ {
+  "ns": "question",
+  "key": "plan.discuss",
+  "en": "Request changes"
+ },
+ {
+  "ns": "command",
+  "key": "section.add",
+  "en": "Add"
+ },
+ {
+  "ns": "command",
+  "key": "section.commands",
+  "en": "Commands"
+ },
+ {
+  "ns": "command",
+  "key": "label.goal",
+  "en": "Goal"
+ },
+ {
+  "ns": "command",
+  "key": "label.plan",
+  "en": "Plan"
+ },
+ {
+  "ns": "command",
+  "key": "label.feedback",
+  "en": "Feedback"
+ },
+ {
+  "ns": "command",
+  "key": "label.compact",
+  "en": "Compact"
+ },
+ {
+  "ns": "command",
+  "key": "label.permission",
+  "en": "Permission"
+ },
+ {
+  "ns": "command",
+  "key": "label.export",
+  "en": "Export"
+ },
+ {
+  "ns": "command",
+  "key": "description.goal",
+  "en": "Set or view the goal for a long-running task"
+ },
+ {
+  "ns": "command",
+  "key": "description.plan",
+  "en": "Enter or leave plan mode"
+ },
+ {
+  "ns": "command",
+  "key": "description.feedback",
+  "en": "Record feedback about this session"
+ },
+ {
+  "ns": "command",
+  "key": "description.compact",
+  "en": "Compact older conversation history"
+ },
+ {
+  "ns": "command",
+  "key": "description.permission",
+  "en": "Switch the permission preset (sandbox mode + approval policy)"
+ },
+ {
+  "ns": "command",
+  "key": "description.export",
+  "en": "Download this Session log as a ZIP archive"
+ },
+ {
+  "ns": "command",
+  "key": "token.goal",
+  "en": "goal"
+ },
+ {
+  "ns": "command",
+  "key": "token.plan",
+  "en": "plan"
+ },
+ {
+  "ns": "command",
+  "key": "token.feedback",
+  "en": "feedback"
+ },
+ {
+  "ns": "command",
+  "key": "token.compact",
+  "en": "compact"
+ },
+ {
+  "ns": "command",
+  "key": "token.permission",
+  "en": "permission"
+ },
+ {
+  "ns": "command",
+  "key": "token.export",
+  "en": "export"
+ },
+ {
+  "ns": "command",
+  "key": "search.placeholder",
+  "en": "Search…"
+ },
+ {
+  "ns": "command",
+  "key": "search.aria",
+  "en": "Filter options"
+ },
+ {
+  "ns": "command",
+  "key": "status.loading",
+  "en": "Loading options…"
+ },
+ {
+  "ns": "command",
+  "key": "status.applying",
+  "en": "Applying…"
+ },
+ {
+  "ns": "command",
+  "key": "status.empty",
+  "en": "No options"
+ },
+ {
+  "ns": "command",
+  "key": "overlay.aria",
+  "en": "/{command} options"
+ },
+ {
+  "ns": "command",
+  "key": "listbox.aria",
+  "en": "/{command} matches"
+ },
+ {
+  "ns": "command",
+  "key": "notice.attachmentsUnsupported",
+  "en": "/{command} does not accept attachments; remove them first"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "shortcut.noSession",
+  "en": "Select a session first"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "recoveryFailed",
+  "en": "Terminal recovery failed: {message}"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "retryRecovery",
+  "en": "Retry terminal recovery"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "shell",
+  "en": "Choose shell"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "shellLoading",
+  "en": "Loading shells…"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "shellEmpty",
+  "en": "No shells available"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "description",
+  "en": "Run commands in the Session workspace"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "title",
+  "en": "Terminal"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "new",
+  "en": "New terminal"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "loading",
+  "en": "Reading terminal environment…"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "creating",
+  "en": "Starting…"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "connecting",
+  "en": "Connecting…"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "disconnected",
+  "en": "Disconnected."
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "reconnect",
+  "en": "Reconnect"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "readonly",
+  "en": "This view is read-only."
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "control",
+  "en": "Take control"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "closed",
+  "en": "Terminal closed."
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "exited",
+  "en": "Process exited ({code})"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "failed",
+  "en": "Terminal error: {message}"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "rename",
+  "en": "Terminal name"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "unavailable",
+  "en": "Unavailable"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "cleanupFailed",
+  "en": "Terminal “{title}” could not be ended: {message}"
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "missingTerminal",
+  "en": "This terminal no longer exists. Open a new terminal."
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "inputFull",
+  "en": "The input buffer is full. Reconnect and try again."
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "attachmentEnded",
+  "en": "The terminal connection ended. Reconnect to continue."
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "invalidOutput",
+  "en": "The terminal screen could not be received. Reconnect to recover it."
+ },
+ {
+  "ns": "sidebarTerminal",
+  "key": "terminalLimit",
+  "en": "The terminal limit has been reached. Close unused terminals and try again. Exited terminals also count toward the limit."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "type.label",
+  "en": "Browser"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "guide.title",
+  "en": "Browser"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "guide.description",
+  "en": "Browse web pages"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "shortcut.noSession",
+  "en": "Open a session first"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "address.placeholder",
+  "en": "Enter an HTTP(S) address"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "address.changed",
+  "en": "URL changed"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "back",
+  "en": "Back"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "forward",
+  "en": "Forward"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "reload",
+  "en": "Reload"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "go",
+  "en": "Go"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "external",
+  "en": "Open in system browser"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "sandbox.disable",
+  "en": "Disable sandbox restrictions"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "sandbox.enable",
+  "en": "Restore sandbox restrictions"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "sandbox.warning",
+  "en": "Sandbox restrictions are disabled; the page can navigate the top-level app and use downloads, modal dialogs, and input locks."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "start",
+  "en": "Enter an HTTP(S) address to start browsing"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "loading",
+  "en": "Opening…"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "restore.previous",
+  "en": "Previously opened"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "restore.action",
+  "en": "Restore page"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "error.empty",
+  "en": "Enter an address."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "error.invalid",
+  "en": "That address is invalid or too long."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "error.protocol",
+  "en": "Only HTTP and HTTPS addresses are supported; use Document Preview for local files."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "error.credentials",
+  "en": "Addresses cannot contain a username or password."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "error.application-origin",
+  "en": "The embedded browser cannot open the DSH application itself."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "load.failed",
+  "en": "The page could not load; reload or open it in the system browser."
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "load.failed.detail",
+  "en": "Page load failed ({code}): {description}"
+ },
+ {
+  "ns": "sidebarBrowser",
+  "key": "address.unknown",
+  "en": "The page navigated; this carrier cannot read its new URL."
+ },
+ {
+  "ns": "agent-team",
+  "key": "trigger",
+  "en": "Agent Team"
+ },
+ {
+  "ns": "agent-team",
+  "key": "loading",
+  "en": "Loading Team…"
+ },
+ {
+  "ns": "agent-team",
+  "key": "unavailable",
+  "en": "Team is unavailable"
+ },
+ {
+  "ns": "agent-team",
+  "key": "failure",
+  "en": "Invalid persisted Team record: {message}"
+ },
+ {
+  "ns": "agent-team",
+  "key": "empty",
+  "en": "No shared tasks yet. Create them through the conversation."
+ },
+ {
+  "ns": "agent-team",
+  "key": "roster",
+  "en": "Members"
+ },
+ {
+  "ns": "agent-team",
+  "key": "tasks",
+  "en": "Shared tasks"
+ },
+ {
+  "ns": "agent-team",
+  "key": "model",
+  "en": "Model"
+ },
+ {
+  "ns": "agent-team",
+  "key": "open",
+  "en": "Open member conversation"
+ },
+ {
+  "ns": "agent-team",
+  "key": "current",
+  "en": "Current chat"
+ },
+ {
+  "ns": "agent-team",
+  "key": "owner",
+  "en": "Owner"
+ },
+ {
+  "ns": "agent-team",
+  "key": "unowned",
+  "en": "Unowned"
+ },
+ {
+  "ns": "agent-team",
+  "key": "blockedBy",
+  "en": "Blocked by"
+ },
+ {
+  "ns": "agent-team",
+  "key": "writeScopes",
+  "en": "Write scopes"
+ },
+ {
+  "ns": "agent-team",
+  "key": "ready",
+  "en": "Ready"
+ },
+ {
+  "ns": "agent-team",
+  "key": "blocked",
+  "en": "Blocked by dependencies"
+ },
+ {
+  "ns": "agent-team",
+  "key": "task.expand",
+  "en": "Show more"
+ },
+ {
+  "ns": "agent-team",
+  "key": "task.collapse",
+  "en": "Show less"
+ },
+ {
+  "ns": "agent-team",
+  "key": "memberStatus.running",
+  "en": "Running"
+ },
+ {
+  "ns": "agent-team",
+  "key": "memberStatus.inactive",
+  "en": "Inactive"
+ },
+ {
+  "ns": "agent-team",
+  "key": "memberStatus.provisioning",
+  "en": "Provisioning"
+ },
+ {
+  "ns": "agent-team",
+  "key": "memberStatus.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "agent-team",
+  "key": "status.pending",
+  "en": "Pending"
+ },
+ {
+  "ns": "agent-team",
+  "key": "status.in_progress",
+  "en": "In progress"
+ },
+ {
+  "ns": "agent-team",
+  "key": "status.completed",
+  "en": "Completed"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "builtInGroup",
+  "en": "Built-in"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "customGroup",
+  "en": "Custom"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "sectionIntro",
+  "en": "Choose the agent’s tools and how it works. Use Standard mode for everyday tasks, or Creator mode to add capabilities to DSH."
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "seatHint",
+  "en": "Choose the agent preset for your new task"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "headerHint",
+  "en": "The agent preset chosen when this task started"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "nav",
+  "en": "Agent presets"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "setDefault",
+  "en": "Set as new task default"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "view",
+  "en": "View configuration"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetStandardName",
+  "en": "Standard mode"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetStandardDescription",
+  "en": "Work with code, files, and information. Suitable for most tasks, with search, editing, terminal commands, and other tools available as needed."
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetPtcName",
+  "en": "PTC mode"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetPtcDescription",
+  "en": "Includes all Standard mode capabilities. Better suited to tasks that call tools in batches and then filter, organize, deduplicate, count, or summarize the results."
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetMinimalName",
+  "en": "Minimal mode"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetMinimalDescription",
+  "en": "The agent works using only a terminal tool. Useful for testing and comparing its basic performance."
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetCordisName",
+  "en": "Creator mode"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "presetCordisDescription",
+  "en": "Customize DSH through conversation. Let the agent write plugins that add features or UI, or combine tools and prompts to create your own mode."
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "inUse",
+  "en": "New task default"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "noDescription",
+  "en": "No description."
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "brokenBadge",
+  "en": "Failed to load"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "switchRefused",
+  "en": "Could not switch to {name}: {reason}"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "close",
+  "en": "Close"
+ },
+ {
+  "ns": "settings.agentPreset",
+  "key": "creatorDraft",
+  "en": "Let the agent help me create a preset"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "loading",
+  "en": "Rendering document..."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "loadMore",
+  "en": "Load more"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "changed",
+  "en": "The file has changed, showing the previous content."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "reloadNow",
+  "en": "Reload"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "reload",
+  "en": "Read the file again"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "autoRefresh",
+  "en": "Auto refresh"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "autoRefresh.enable",
+  "en": "Enable auto refresh"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "autoRefresh.disable",
+  "en": "Disable auto refresh"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "wrap.enable",
+  "en": "Turn on line wrap"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "wrap.disable",
+  "en": "Turn off line wrap"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "wrap.aria",
+  "en": "Line wrap"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "openWith",
+  "en": "Open with"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "viewer.text",
+  "en": "Plain text"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "resourceUnavailable",
+  "en": "The file resource service is unavailable."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "rendererUnavailable",
+  "en": "The {name} preview is unavailable."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "unsupportedFile",
+  "en": "Preview is not available for this file type yet."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "error.notFound",
+  "en": "File not found. It may have been moved or deleted."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "error.tooLarge",
+  "en": "This page exceeds the {limit} limit and cannot be read."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "error.notText",
+  "en": "Preview is not available for this file type yet."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "error.notRegularFile",
+  "en": "Not a regular file, nothing to display."
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "error.unavailable",
+  "en": "Read failed: {message}"
+ },
+ {
+  "ns": "sidebarDocumentPreview",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "header.more",
+  "en": "More actions"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "menu.download",
+  "en": "Download session log"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "menu.feedback",
+  "en": "Feedback"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "dialog.preparingTitle",
+  "en": "Exporting Session"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "dialog.preparingDescription",
+  "en": "Preparing a ZIP containing this Session, its sub-Sessions, and attachments."
+ },
+ {
+  "ns": "session-log-download",
+  "key": "dialog.successTitle",
+  "en": "Session download started"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "dialog.successDescription",
+  "en": "The browser is downloading the Session ZIP."
+ },
+ {
+  "ns": "session-log-download",
+  "key": "dialog.errorTitle",
+  "en": "Session export failed"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "dialog.close",
+  "en": "Close"
+ },
+ {
+  "ns": "session-log-download",
+  "key": "dialog.commandFailed",
+  "en": "Could not start the Session export."
+ }
+]

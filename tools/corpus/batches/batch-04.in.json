@@ -1,0 +1,1302 @@
+[
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.thinking",
+  "en": "Analyzing the request"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.read",
+  "en": "Reading files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.readImage",
+  "en": "Reading images"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.write",
+  "en": "Writing files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.search",
+  "en": "Searching code"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.edit",
+  "en": "Editing files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.commands",
+  "en": "Running commands"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.code",
+  "en": "Running code"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.webSearch",
+  "en": "Searching the web"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.webFetch",
+  "en": "Visiting web pages"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.subagents",
+  "en": "Coordinating subagents"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.plan",
+  "en": "Updating the plan"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.questions",
+  "en": "Waiting for your action"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.tools",
+  "en": "Calling tools"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.read",
+  "en": "Preparing to read files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.readImage",
+  "en": "Preparing to read images"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.write",
+  "en": "Preparing to write files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.search",
+  "en": "Preparing to search code"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.edit",
+  "en": "Preparing to edit files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.commands",
+  "en": "Preparing to run commands"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.code",
+  "en": "Preparing to run code"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.webSearch",
+  "en": "Preparing to search the web"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.webFetch",
+  "en": "Preparing to visit web pages"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.subagents",
+  "en": "Preparing to coordinate subagents"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.plan",
+  "en": "Preparing to update the plan"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.questions",
+  "en": "Preparing questions"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.prepare.tools",
+  "en": "Preparing tool calls"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.thinking",
+  "en": "Analysis completed"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.read",
+  "en": "Read files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.readImage",
+  "en": "Read images"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.write",
+  "en": "Wrote files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.search",
+  "en": "Searched code"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.edit",
+  "en": "Edited files"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.commands",
+  "en": "Ran commands"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.code",
+  "en": "Ran code"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.webSearch",
+  "en": "Searched the web"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.webFetch",
+  "en": "Visited web pages"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.subagents",
+  "en": "Coordinated subagents"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.plan",
+  "en": "Updated the plan"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.questions",
+  "en": "Asked questions"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.done.tools",
+  "en": "Called tools"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.joinTwo",
+  "en": "{first} and {second}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.comma",
+  "en": ", "
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.sharedPrefix",
+  "en": ""
+ },
+ {
+  "ns": "chat",
+  "key": "message.stepProcess.more",
+  "en": "{title}, etc."
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.request",
+  "en": "Execution requested"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.goal",
+  "en": "Continuing goal"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.agent",
+  "en": "Task message received"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.team",
+  "en": "Team message received"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.subagent",
+  "en": "Subtask status updated"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.github",
+  "en": "GitHub event received"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.webhook",
+  "en": "External event received"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.schedule",
+  "en": "Automation task"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.job",
+  "en": "Background task updated"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.plugin",
+  "en": "Plugin status updated"
+ },
+ {
+  "ns": "chat",
+  "key": "message.trigger.explanation",
+  "en": "This notification triggered this response."
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.worked",
+  "en": "Completed"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.took",
+  "en": "Completed in "
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "chat",
+  "key": "view.chat",
+  "en": "Chat"
+ },
+ {
+  "ns": "chat",
+  "key": "image.open",
+  "en": "View full image"
+ },
+ {
+  "ns": "chat",
+  "key": "image.loading",
+  "en": "Loading image…"
+ },
+ {
+  "ns": "chat",
+  "key": "image.failed",
+  "en": "Image preview unavailable"
+ },
+ {
+  "ns": "chat",
+  "key": "image.dialog",
+  "en": "Image preview"
+ },
+ {
+  "ns": "chat",
+  "key": "image.close",
+  "en": "Close image preview"
+ },
+ {
+  "ns": "chat",
+  "key": "number.groupSeparator",
+  "en": ","
+ },
+ {
+  "ns": "chat",
+  "key": "duration.compactSeconds",
+  "en": "{seconds}s"
+ },
+ {
+  "ns": "chat",
+  "key": "duration.compactMinutes",
+  "en": "{minutes}m{seconds}s"
+ },
+ {
+  "ns": "chat",
+  "key": "duration.milliseconds",
+  "en": "{milliseconds}ms"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.counts",
+  "en": "{turns} turns {steps} steps"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.cacheHit",
+  "en": "Cache hit {percent}%"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.dialog.title",
+  "en": "Session statistics"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.dialog.usageTitle",
+  "en": "Token usage"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.dialog.llmTime",
+  "en": "LLM time"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.dialog.toolTime",
+  "en": "Tool time"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.dialog.ttft",
+  "en": "Avg time to first token (TTFT)"
+ },
+ {
+  "ns": "chat",
+  "key": "stats.dialog.speed",
+  "en": "Tokens per second (TPS)"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.loadingHistory",
+  "en": "Loading history…"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.loadError",
+  "en": "Failed to load history: {message} ({code})"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.loadOlder",
+  "en": "Load earlier"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.toBottom",
+  "en": "Back to bottom"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.deepDiving",
+  "en": "Deep diving"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.deepDivingFor",
+  "en": "Deep diving for {duration} ···"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.turnNavigation.label",
+  "en": "Turn navigation"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.turnNavigation.jump",
+  "en": "Jump to turn {turn}"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.turnNavigation.jumpLoad",
+  "en": "Load and jump to turn {turn}"
+ },
+ {
+  "ns": "chat",
+  "key": "chat.turnNavigation.turn",
+  "en": "Turn {turn}"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.performance.title",
+  "en": "Performance & usage"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.performance.description",
+  "en": "Choose how much performance and usage information to show"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.performance.compact",
+  "en": "Compact"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.performance.detailed",
+  "en": "Detailed"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.links.title",
+  "en": "Open chat links in"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.links.description",
+  "en": "Choose where to open web links"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.links.sidebar",
+  "en": "In-App Sidebar"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.links.newTab",
+  "en": "Default Browser"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.transcript.title",
+  "en": "Work details"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.transcript.description",
+  "en": "Choose how much detail to show for tool calls"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.transcript.compact",
+  "en": "Compact"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.transcript.standard",
+  "en": "Standard"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.transcript.detailed",
+  "en": "Detailed"
+ },
+ {
+  "ns": "chat",
+  "key": "settings.transcript.verbose",
+  "en": "Verbose"
+ },
+ {
+  "ns": "chat",
+  "key": "fileOpen.title",
+  "en": "Couldn’t open file"
+ },
+ {
+  "ns": "chat",
+  "key": "fileOpen.unknown",
+  "en": "Couldn’t open this file"
+ },
+ {
+  "ns": "chat",
+  "key": "message.extraBlock",
+  "en": "Extra content block"
+ },
+ {
+  "ns": "chat",
+  "key": "message.systemPrompt",
+  "en": "System prompt"
+ },
+ {
+  "ns": "chat",
+  "key": "message.systemPromptUpdate",
+  "en": "System prompt update"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolAdded",
+  "en": "Tool added: {name}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolRemoved",
+  "en": "Tool removed: {name}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolsAdded",
+  "en": "Added: {names}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolsAddedCount",
+  "en": "{count} added"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolsChanged",
+  "en": "{added} added, {removed} removed"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolsRemoved",
+  "en": "Removed: {names}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolsRemovedCount",
+  "en": "{count} removed"
+ },
+ {
+  "ns": "chat",
+  "key": "message.toolsUpdated",
+  "en": "Tools updated"
+ },
+ {
+  "ns": "chat",
+  "key": "message.contextInjection",
+  "en": "Context injection"
+ },
+ {
+  "ns": "chat",
+  "key": "message.contextRecall",
+  "en": "Session recall"
+ },
+ {
+  "ns": "chat",
+  "key": "message.referenceSummary",
+  "en": "Referenced session · {labels}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.referenceSeparator",
+  "en": ", "
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.instructions.loaded",
+  "en": "loaded"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.instructions.added",
+  "en": "added"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.instructions.updated",
+  "en": "updated"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.instructions.removed",
+  "en": "removed"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.catalog.replaced",
+  "en": "Replacement catalog"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.catalog.more",
+  "en": "… {count} more"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.snapshot.supersedes",
+  "en": "Supersedes earlier snapshots"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.relay.from",
+  "en": "From session {session}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.recall.counts",
+  "en": "{retained} kept · {omitted} omitted"
+ },
+ {
+  "ns": "chat",
+  "key": "message.context.recall.truncated",
+  "en": "truncated"
+ },
+ {
+  "ns": "chat",
+  "key": "message.compaction",
+  "en": "Context compacted"
+ },
+ {
+  "ns": "chat",
+  "key": "message.compaction.running",
+  "en": "Compacting context…"
+ },
+ {
+  "ns": "chat",
+  "key": "message.compaction.completed",
+  "en": "Compacted {items} history items (~{tokens} tokens)"
+ },
+ {
+  "ns": "chat",
+  "key": "message.compaction.expand",
+  "en": "View compaction summary"
+ },
+ {
+  "ns": "chat",
+  "key": "message.compaction.unavailable",
+  "en": "Compaction summary unavailable"
+ },
+ {
+  "ns": "chat",
+  "key": "message.compaction.commandTitle",
+  "en": "compact"
+ },
+ {
+  "ns": "chat",
+  "key": "message.think",
+  "en": "Think"
+ },
+ {
+  "ns": "chat",
+  "key": "message.unknownSurface",
+  "en": "Unknown surface event: {type}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.unknownBlock",
+  "en": "Unknown content block"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.toolCalls.one",
+  "en": "{count} tool call"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.toolCalls.other",
+  "en": "{count} tool calls"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.messages.one",
+  "en": "{count} message"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.messages.other",
+  "en": "{count} messages"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.subagents.one",
+  "en": "{count} subagent"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.subagents.other",
+  "en": "{count} subagents"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.thoughtForAWhile",
+  "en": "Thought for a while"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnProcess.separator",
+  "en": " · "
+ },
+ {
+  "ns": "chat",
+  "key": "message.stopped",
+  "en": "Stopped"
+ },
+ {
+  "ns": "chat",
+  "key": "message.branch",
+  "en": "Branch into a new conversation"
+ },
+ {
+  "ns": "chat",
+  "key": "message.branchUnavailable",
+  "en": "Available only on the last message of a completed turn"
+ },
+ {
+  "ns": "chat",
+  "key": "message.retry.active",
+  "en": "Retrying model request"
+ },
+ {
+  "ns": "chat",
+  "key": "message.retry.cancelled",
+  "en": "Model request retry cancelled"
+ },
+ {
+  "ns": "chat",
+  "key": "message.retry.started",
+  "en": "Retried model request"
+ },
+ {
+  "ns": "chat",
+  "key": "message.retry.scheduled",
+  "en": "Waiting to retry model request"
+ },
+ {
+  "ns": "chat",
+  "key": "message.retry.status",
+  "en": "{label} ({retry}/{maximum}) · {seconds}s"
+ },
+ {
+  "ns": "chat",
+  "key": "message.retry.delay",
+  "en": "Retry delay: "
+ },
+ {
+  "ns": "chat",
+  "key": "message.retry.failure",
+  "en": "Failure reason: "
+ },
+ {
+  "ns": "chat",
+  "key": "message.failure.auth",
+  "en": "API key is invalid"
+ },
+ {
+  "ns": "chat",
+  "key": "message.accountStopped",
+  "en": "Task stopped"
+ },
+ {
+  "ns": "chat",
+  "key": "message.failure.accountSignedOut",
+  "en": "Stopped because you signed out of DeepSeek."
+ },
+ {
+  "ns": "chat",
+  "key": "message.failure.accountSignInRequired",
+  "en": "Sign in to DeepSeek and ensure the request destination supports account authentication."
+ },
+ {
+  "ns": "chat",
+  "key": "message.failure.quota",
+  "en": "Request quota exhausted."
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnError",
+  "en": "This turn failed"
+ },
+ {
+  "ns": "chat",
+  "key": "message.maxTokens",
+  "en": "Output token limit reached"
+ },
+ {
+  "ns": "chat",
+  "key": "message.maxTokens.hint",
+  "en": "The reply was cut off; earlier output is preserved in the conversation. Send \"continue\" to let the model resume."
+ },
+ {
+  "ns": "chat",
+  "key": "message.tokensPerSecond",
+  "en": "{tps} tok/s"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.title",
+  "en": "Turn usage"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.consumed",
+  "en": "Usage {total}"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.model",
+  "en": "Provider / model"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.cacheHit",
+  "en": "Cache hit"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.input",
+  "en": "Uncached input"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.cacheRead",
+  "en": "Cached input"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.cacheWrite",
+  "en": "Cache write"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.output",
+  "en": "Output"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.reasoning",
+  "en": " ({tokens} reasoning)"
+ },
+ {
+  "ns": "chat",
+  "key": "message.turnUsage.count",
+  "en": "{count} tok"
+ },
+ {
+  "ns": "chat",
+  "key": "duration.secondUnit",
+  "en": "s"
+ },
+ {
+  "ns": "chat",
+  "key": "duration.minuteUnit",
+  "en": "m "
+ },
+ {
+  "ns": "chat",
+  "key": "duration.hourUnit",
+  "en": "h "
+ },
+ {
+  "ns": "chat",
+  "key": "command.running",
+  "en": "Running…"
+ },
+ {
+  "ns": "chat",
+  "key": "command.failed",
+  "en": "Command failed"
+ },
+ {
+  "ns": "chat",
+  "key": "command.done",
+  "en": "Completed"
+ },
+ {
+  "ns": "chat",
+  "key": "command.title",
+  "en": "Command"
+ },
+ {
+  "ns": "chat",
+  "key": "row.running",
+  "en": "Running"
+ },
+ {
+  "ns": "chat",
+  "key": "row.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "chat",
+  "key": "json.truncated",
+  "en": "… truncated, {total} characters total"
+ },
+ {
+  "ns": "chat",
+  "key": "clock.md",
+  "en": "{m}/{d}"
+ },
+ {
+  "ns": "chat",
+  "key": "clock.ymd",
+  "en": "{y}-{m}-{d}"
+ },
+ {
+  "ns": "cordis",
+  "key": "row.defineTitle",
+  "en": "Register Cordis Plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "a11y.preparing",
+  "en": "Preparing a Cordis tool call"
+ },
+ {
+  "ns": "cordis",
+  "key": "row.runTitle",
+  "en": "Run Cordis Plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "row.updateTitle",
+  "en": "Update Cordis Plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "row.stopTitle",
+  "en": "Stop Cordis Plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "row.removeTitle",
+  "en": "Remove Cordis Plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "purpose.missing",
+  "en": "(no purpose given)"
+ },
+ {
+  "ns": "cordis",
+  "key": "status.idle",
+  "en": "Ready"
+ },
+ {
+  "ns": "cordis",
+  "key": "status.awaitingApproval",
+  "en": "Awaiting approval"
+ },
+ {
+  "ns": "cordis",
+  "key": "status.failed",
+  "en": "Run failed"
+ },
+ {
+  "ns": "cordis",
+  "key": "status.clientPending",
+  "en": "Client ready to activate"
+ },
+ {
+  "ns": "cordis",
+  "key": "status.running",
+  "en": "Running"
+ },
+ {
+  "ns": "cordis",
+  "key": "status.removed",
+  "en": "Removed"
+ },
+ {
+  "ns": "cordis",
+  "key": "status.superseded",
+  "en": "Newer run available"
+ },
+ {
+  "ns": "cordis",
+  "key": "run.removed",
+  "en": "This package no longer exists"
+ },
+ {
+  "ns": "cordis",
+  "key": "run.superseded",
+  "en": "A newer run card is available below"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.hint",
+  "en": "Run controls live in the Cordis panel above Settings"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.plugins.aria",
+  "en": "Cordis plugins"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.approvals.aria",
+  "en": "Cordis approvals"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.trigger",
+  "en": "Cordis Plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.runningCount",
+  "en": "{count} running"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.title",
+  "en": "Cordis plugins"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.empty",
+  "en": "No plugins defined yet"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.loading",
+  "en": "Reading…"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.readFailed",
+  "en": "Reading the plugin inventory failed: {message}"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.group.current",
+  "en": "This session"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.group.others",
+  "en": "Other sessions"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.version",
+  "en": "Version"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.current",
+  "en": "Current: {packageId}"
+ },
+ {
+  "ns": "cordis",
+  "key": "panel.next",
+  "en": "Next: {packageId}"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.approve",
+  "en": "Allow"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.approveOnce",
+  "en": "Allow this version only"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.approvePlugin",
+  "en": "Allow future versions of this plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.decline",
+  "en": "Decline"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.run",
+  "en": "Run"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.stop",
+  "en": "Stop"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.remove",
+  "en": "Remove"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.rollback",
+  "en": "Roll back"
+ },
+ {
+  "ns": "cordis",
+  "key": "action.inspect",
+  "en": "Inspect"
+ },
+ {
+  "ns": "cordis",
+  "key": "render.failedAbdicated",
+  "en": "Rendering failed in {slot}; the default UI was restored:"
+ },
+ {
+  "ns": "cordis",
+  "key": "render.failedHeld",
+  "en": "Rendering failed in {slot}:"
+ },
+ {
+  "ns": "cordis",
+  "key": "a11y.defining",
+  "en": "Defining the plugin"
+ },
+ {
+  "ns": "cordis",
+  "key": "a11y.failed",
+  "en": "Definition failed"
+ },
+ {
+  "ns": "cordis",
+  "key": "a11y.stopped",
+  "en": "Definition interrupted"
+ },
+ {
+  "ns": "cordis",
+  "key": "body.source",
+  "en": "Plugin source"
+ },
+ {
+  "ns": "cordis",
+  "key": "body.hostCode",
+  "en": "Host"
+ },
+ {
+  "ns": "cordis",
+  "key": "body.clientCode",
+  "en": "Client"
+ },
+ {
+  "ns": "cordis",
+  "key": "body.output",
+  "en": "Result"
+ },
+ {
+  "ns": "cordis",
+  "key": "body.copy",
+  "en": "Copy"
+ },
+ {
+  "ns": "cordis",
+  "key": "body.copied",
+  "en": "Copied"
+ },
+ {
+  "ns": "model",
+  "key": "provider.account",
+  "en": "DeepSeek Account"
+ },
+ {
+  "ns": "model",
+  "key": "command.label",
+  "en": "Model"
+ },
+ {
+  "ns": "model",
+  "key": "command.description",
+  "en": "Select the model for this conversation"
+ },
+ {
+  "ns": "model",
+  "key": "option.loadError",
+  "en": "Catalog failed to load: {message}"
+ },
+ {
+  "ns": "model",
+  "key": "trigger.fallback",
+  "en": "Select model"
+ },
+ {
+  "ns": "model",
+  "key": "trigger.loading",
+  "en": "Loading models…"
+ },
+ {
+  "ns": "model",
+  "key": "trigger.selectAria",
+  "en": "Select model"
+ },
+ {
+  "ns": "model",
+  "key": "trigger.aria",
+  "en": "Select model, current {model}"
+ },
+ {
+  "ns": "model",
+  "key": "trigger.ariaEffort",
+  "en": "Select model, current {model}, reasoning effort {effort}"
+ },
+ {
+  "ns": "model",
+  "key": "menu.aria",
+  "en": "Model and reasoning effort"
+ },
+ {
+  "ns": "model",
+  "key": "menu.model",
+  "en": "Model"
+ },
+ {
+  "ns": "model",
+  "key": "menu.effort",
+  "en": "Effort"
+ },
+ {
+  "ns": "model",
+  "key": "effort.providerDefault",
+  "en": "Default"
+ },
+ {
+  "ns": "model",
+  "key": "status.loading",
+  "en": "Refreshing model list…"
+ },
+ {
+  "ns": "model",
+  "key": "error.action",
+  "en": "Model operation failed: {message}"
+ },
+ {
+  "ns": "model",
+  "key": "error.sessionInUse",
+  "en": "This session is already in use, possibly by another running DSH instance (such as dsh web or the desktop app). Quit other running DSH instances and try again."
+ },
+ {
+  "ns": "model",
+  "key": "action.reload",
+  "en": "Reload"
+ },
+ {
+  "ns": "model",
+  "key": "warning.groupLoad",
+  "en": "{name} failed to load: {message}"
+ },
+ {
+  "ns": "model",
+  "key": "search.placeholder",
+  "en": "Search models…"
+ },
+ {
+  "ns": "model",
+  "key": "search.clear",
+  "en": "Clear search"
+ },
+ {
+  "ns": "model",
+  "key": "search.empty",
+  "en": "No matching models."
+ },
+ {
+  "ns": "model",
+  "key": "empty.models",
+  "en": "No models available."
+ },
+ {
+  "ns": "model",
+  "key": "empty.efforts",
+  "en": "This model provides no reasoning effort levels."
+ }
+]

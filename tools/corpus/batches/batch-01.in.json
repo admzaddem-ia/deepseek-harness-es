@@ -1,0 +1,1847 @@
+[
+ {
+  "ns": "conversation",
+  "key": "shortcut.newline",
+  "en": "New line"
+ },
+ {
+  "ns": "conversation",
+  "key": "shortcut.complementary",
+  "en": "Use the complementary Queue / Steer action"
+ },
+ {
+  "ns": "conversation",
+  "key": "shortcut.slash",
+  "en": "Open command menu"
+ },
+ {
+  "ns": "conversation",
+  "key": "shortcut.mention",
+  "en": "Open reference menu"
+ },
+ {
+  "ns": "conversation",
+  "key": "hint.plan",
+  "en": "describe your task to generate plan"
+ },
+ {
+  "ns": "conversation",
+  "key": "hint.goal",
+  "en": "describe the objective for a long-running task"
+ },
+ {
+  "ns": "conversation",
+  "key": "hint.goal.active",
+  "en": "goal active — edit / pause / resume / clear"
+ },
+ {
+  "ns": "conversation",
+  "key": "placeholder.plan",
+  "en": "describe your task to generate plan"
+ },
+ {
+  "ns": "conversation",
+  "key": "placeholder.default",
+  "en": "Message or run a task, / commands, @ files or sessions"
+ },
+ {
+  "ns": "conversation",
+  "key": "placeholder.unavailable",
+  "en": "Session unavailable"
+ },
+ {
+  "ns": "conversation",
+  "key": "placeholder.parentOffline",
+  "en": "Parent session offline; sending is unavailable but you can still stop the run"
+ },
+ {
+  "ns": "conversation",
+  "key": "placeholder.hero",
+  "en": "Describe what you want to build, / commands, @ files or sessions"
+ },
+ {
+  "ns": "conversation",
+  "key": "placeholder.workspace",
+  "en": "Choose a workspace to start"
+ },
+ {
+  "ns": "conversation",
+  "key": "placeholder.steerQueue",
+  "en": "Cmd/Ctrl+Enter steers all queued messages"
+ },
+ {
+  "ns": "conversation",
+  "key": "input.commands",
+  "en": "Add files or run commands"
+ },
+ {
+  "ns": "conversation",
+  "key": "input.file",
+  "en": "File"
+ },
+ {
+  "ns": "conversation",
+  "key": "input.stop",
+  "en": "Stop generating"
+ },
+ {
+  "ns": "conversation",
+  "key": "input.send",
+  "en": "Send message"
+ },
+ {
+  "ns": "conversation",
+  "key": "input.send.queue",
+  "en": "Queue message"
+ },
+ {
+  "ns": "conversation",
+  "key": "input.send.steer",
+  "en": "Steer message"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.pending",
+  "en": "Pending attachments"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.scrollLeft",
+  "en": "Scroll attachments left"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.scrollRight",
+  "en": "Scroll attachments right"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.dropTitle",
+  "en": "Drag files or images here to add them"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.dropDesc",
+  "en": "Image limit: up to {count} images, {size} each"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.dropBlocked",
+  "en": "Files and images cannot be added right now"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.directoryDesktopOnly",
+  "en": "Folders can only be added in the desktop app; add individual files in the browser"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.pathUnavailable",
+  "en": "Could not obtain the folder path; drag it in again"
+ },
+ {
+  "ns": "conversation",
+  "key": "attachment.pathUnsupported",
+  "en": "The path contains characters a reference cannot carry; rename it and try again"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.pending",
+  "en": "Pending images"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.openOriginal",
+  "en": "View original"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.openOriginalLabel",
+  "en": "{label}, click to view original"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.remove",
+  "en": "Remove image {name}"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.original",
+  "en": "Original image"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.label",
+  "en": "Image"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.loadFailed",
+  "en": "Image failed to load; click to retry"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.loading",
+  "en": "Loading image…"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.preview",
+  "en": "Original image preview"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.closePreview",
+  "en": "Close original image preview"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.unsupportedType",
+  "en": "Only PNG, JPG, WebP, and GIF images are supported"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.tooMany",
+  "en": "A message can include up to {count} images"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.fileTooLarge",
+  "en": "Each image must be smaller than {size}"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.totalTooLarge",
+  "en": "Images exceed {size} in total; remove some and try again"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.tooManyPixels",
+  "en": "Image resolution is too high; compress it and try again"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.dimensionTooLarge",
+  "en": "Image sides must be at most {size}px; downscale it and try again"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.modelUnsupported",
+  "en": "The current model does not support images; switch to a model that does"
+ },
+ {
+  "ns": "conversation",
+  "key": "image.sendFailed",
+  "en": "Sending images failed ({reason}); re-add them and try again"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.pending",
+  "en": "Pending files"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.remove",
+  "en": "Remove file {name}"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.uploading",
+  "en": "Uploading…"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.uploadFailed",
+  "en": "Upload failed; click to retry"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.retry",
+  "en": "Retry uploading {name}"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.stillUploading",
+  "en": "Files are still uploading; send after they finish"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.sessionUnavailable",
+  "en": "Session unavailable; files cannot be uploaded"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.notStaged",
+  "en": "The file has not finished uploading; re-add it and try again"
+ },
+ {
+  "ns": "conversation",
+  "key": "file.label",
+  "en": "File"
+ },
+ {
+  "ns": "conversation",
+  "key": "context.aria",
+  "en": "{percent} of context used"
+ },
+ {
+  "ns": "conversation",
+  "key": "context.used",
+  "en": "of context used"
+ },
+ {
+  "ns": "conversation",
+  "key": "context.system",
+  "en": "System prompt"
+ },
+ {
+  "ns": "conversation",
+  "key": "context.tools",
+  "en": "Tool definitions"
+ },
+ {
+  "ns": "conversation",
+  "key": "context.messages",
+  "en": "Messages"
+ },
+ {
+  "ns": "conversation",
+  "key": "settings.enter.title",
+  "en": "Send behavior while busy"
+ },
+ {
+  "ns": "conversation",
+  "key": "settings.enter.description",
+  "en": "What Enter and the Send button do while the agent is running; Cmd/Ctrl+Enter uses the other behavior"
+ },
+ {
+  "ns": "conversation",
+  "key": "settings.enter.queue",
+  "en": "Queue"
+ },
+ {
+  "ns": "conversation",
+  "key": "settings.enter.steer",
+  "en": "Steer"
+ },
+ {
+  "ns": "conversation",
+  "key": "hero.headline",
+  "en": "Into the Unknown"
+ },
+ {
+  "ns": "conversation",
+  "key": "hero.preview",
+  "en": "Preview"
+ },
+ {
+  "ns": "conversation",
+  "key": "hero.chooseWorkspace",
+  "en": "Choose workspace"
+ },
+ {
+  "ns": "conversation",
+  "key": "session.hierarchy",
+  "en": "Session hierarchy"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.title",
+  "en": "To-dos"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.progress.done",
+  "en": "{done} completed"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.progress.active",
+  "en": "{active} in progress"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.progress.pending",
+  "en": "{pending} pending"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.status.completed",
+  "en": "Completed"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.status.inProgress",
+  "en": "In progress"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.status.pending",
+  "en": "Pending"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.rowTitle",
+  "en": "Update to-do list"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.createGoal",
+  "en": "Create goal"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.getGoal",
+  "en": "View goal"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.updateGoal",
+  "en": "Update goal"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.preparing.content",
+  "en": "Preparing content {kilobytes}KB"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.createSchedule",
+  "en": "Create reminder"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.listSchedules",
+  "en": "List reminders"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.deleteSchedule",
+  "en": "Delete reminder"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.updateSchedule",
+  "en": "Update reminder"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.state",
+  "en": "Status"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.todo.completed",
+  "en": "Completed"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.todo.in_progress",
+  "en": "In progress"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.todo.pending",
+  "en": "Pending"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.todo.empty",
+  "en": "The to-do list is empty"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.initial",
+  "en": "Initial list"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.compare",
+  "en": "Changes since the previous list"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.unavailable",
+  "en": "Previous list unavailable"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.noChanges",
+  "en": "No changes to the list"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.added",
+  "en": "{count} added"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.updated",
+  "en": "{count} updated"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.removed",
+  "en": "{count} removed"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.unchanged",
+  "en": "{count} unchanged"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.addedItem",
+  "en": "Added"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.updatedItem",
+  "en": "Status changed"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.movedItem",
+  "en": "Reordered"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.diff.removedItem",
+  "en": "Removed"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.empty",
+  "en": "No goal"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.active",
+  "en": "Active"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.disarmed",
+  "en": "Awaiting continuation"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.paused",
+  "en": "Paused"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.blocked",
+  "en": "Blocked"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.complete",
+  "en": "Completed"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.rounds",
+  "en": "Rounds"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.goal.reason",
+  "en": "Blocker"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.days",
+  "en": "{count} d"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.hours",
+  "en": "{count} h"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.minutes",
+  "en": "{count} min"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.seconds",
+  "en": "{count} s"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.once",
+  "en": "Once"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.every",
+  "en": "Every {interval}"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.when",
+  "en": "Scheduled for"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.frequency",
+  "en": "Repeat"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.scheduled",
+  "en": "Scheduled"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.overdue",
+  "en": "Overdue, awaiting session resume"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.empty",
+  "en": "No reminders"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.deleted",
+  "en": "Deleted"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.count",
+  "en": "{count} reminders"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.daily",
+  "en": "Every day at {time} ({zone})"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.weekly",
+  "en": "Weekly on {days} at {time} ({zone})"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.schedule.cron",
+  "en": "Cron {expression} ({zone})"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.1",
+  "en": "Mon"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.2",
+  "en": "Tue"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.3",
+  "en": "Wed"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.4",
+  "en": "Thu"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.5",
+  "en": "Fri"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.6",
+  "en": "Sat"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.7",
+  "en": "Sun"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.weekday.join",
+  "en": ", "
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.inspectProviders",
+  "en": "Inspect providers"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.queryRuntime",
+  "en": "Query runtime"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.inspectPlugins",
+  "en": "Inspect plugins"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.workflow",
+  "en": "Run workflow"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.ralph",
+  "en": "Run ralph loop"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.readEvent",
+  "en": "Read event"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.searchEvents",
+  "en": "Search events"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.traceEvent",
+  "en": "Trace event"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.searchSessions",
+  "en": "Search sessions"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.traceSession",
+  "en": "Trace session"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.listModels",
+  "en": "List models"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.subagent",
+  "en": "Create subagent"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.listAgents",
+  "en": "List subagents"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.sendMessage",
+  "en": "Send message"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.interruptAgent",
+  "en": "Interrupt agent"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.listJobs",
+  "en": "List background jobs"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.readJob",
+  "en": "Read job output"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.killJob",
+  "en": "Cancel background job"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.openTerminal",
+  "en": "Open terminal"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.readTerminal",
+  "en": "Read terminal"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.listTerminals",
+  "en": "List terminals"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.signalTerminal",
+  "en": "Signal terminal"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.closeTerminal",
+  "en": "Close terminal"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.lsp",
+  "en": "Query code symbols"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.findDefinition",
+  "en": "Find definition"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.findReferences",
+  "en": "Find references"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.findImplementation",
+  "en": "Find implementation"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.hoverSymbol",
+  "en": "Inspect symbol"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.spawnTeammate",
+  "en": "Create teammate"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.createTeamTask",
+  "en": "Create team task"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.getTeamTask",
+  "en": "Read team task"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.updateTeamTask",
+  "en": "Update team task"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.listTeamTasks",
+  "en": "List team tasks"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.waitAgent",
+  "en": "Wait for subagent"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.recordedResult",
+  "en": "Recorded result"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.empty",
+  "en": "No results"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.none",
+  "en": "None"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.yes",
+  "en": "Yes"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.no",
+  "en": "No"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.moreInInspect",
+  "en": "{count} more items available in Inspect"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.running",
+  "en": "Running"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.idle",
+  "en": "Idle"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.ready",
+  "en": "Ready"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.inactive",
+  "en": "Inactive"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.provisioning",
+  "en": "Provisioning"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.completed",
+  "en": "Completed"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.deleted",
+  "en": "Deleted"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.killed",
+  "en": "Cancelled"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.accepted",
+  "en": "Accepted"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.queued",
+  "en": "Queued"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.status.exited",
+  "en": "Exited"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.id",
+  "en": "ID"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.revision",
+  "en": "Revision"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.platform",
+  "en": "Platform"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.provider",
+  "en": "Provider"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.model",
+  "en": "Model"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.role",
+  "en": "Role"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.context",
+  "en": "Context"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.owner",
+  "en": "Owner"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.ready",
+  "en": "Ready"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.dependencies",
+  "en": "Dependencies"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.writeScopes",
+  "en": "Write scopes"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.warnings",
+  "en": "Warnings"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.diagnostics",
+  "en": "Diagnostics"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.methods",
+  "en": "Methods"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.inputSchema",
+  "en": "Input schema"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.outputSchema",
+  "en": "Output schema"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.currentPackage",
+  "en": "Current package"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.nextPackage",
+  "en": "Next package"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.latestRun",
+  "en": "Latest run"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.packages",
+  "en": "Packages"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.registrations",
+  "en": "Registrations"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.props",
+  "en": "Props"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.data",
+  "en": "Data"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.source",
+  "en": "Source"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.content",
+  "en": "Content"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.message",
+  "en": "Message"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.messageId",
+  "en": "Message ID"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.root",
+  "en": "Root"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.pid",
+  "en": "Process ID"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.type",
+  "en": "Type"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.time",
+  "en": "Time"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.seq",
+  "en": "Event sequence"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.turn",
+  "en": "Turn"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.step",
+  "en": "Step"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.callId",
+  "en": "Call ID"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.agents",
+  "en": "Agents started"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.result",
+  "en": "Result"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.parent",
+  "en": "Parent"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.depth",
+  "en": "Depth"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.exitCode",
+  "en": "Exit code"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.signal",
+  "en": "Signal"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.previousStatus",
+  "en": "Previous status"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.agent",
+  "en": "Agent ID"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.job",
+  "en": "Job ID"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.task",
+  "en": "Task"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.processGroup",
+  "en": "Process group"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.availability",
+  "en": "Availability"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.bestMatch",
+  "en": "Best match"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.target",
+  "en": "Target event"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.field.surface",
+  "en": "Record status"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.agents.count",
+  "en": "{count} agents"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.jobs.count",
+  "en": "{count} background jobs"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.terminals.count",
+  "en": "{count} terminals"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.tasks.count",
+  "en": "{count} team tasks"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.tasks.nextPage",
+  "en": "More tasks available; next cursor is {cursor}"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.locations.count",
+  "en": "{count} locations"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.location",
+  "en": "Line {line}, column {column}"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.delivered",
+  "en": "Message delivered"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.interrupt",
+  "en": "Interrupt requested"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.started",
+  "en": "Started"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.cancel",
+  "en": "Cancellation requested"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.alreadyFinished",
+  "en": "Already finished"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.signal",
+  "en": "Signal delivered"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.closed",
+  "en": "Closed"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.receipt.closing",
+  "en": "Closing"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.wait.noProgress",
+  "en": "No active subagents"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.wait.title",
+  "en": "Subagent activity"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.wait.timeout",
+  "en": "Wait timed out"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.wait.changed",
+  "en": "Change detected"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.agent.reply",
+  "en": "Agent response"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.models.title",
+  "en": "Available models"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.output.lines",
+  "en": "Lines {begin}–{end} of {total}"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.output.truncated",
+  "en": "Output truncated"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.providers.count",
+  "en": "{count} inspect providers"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.plugins.count",
+  "en": "{count} dynamic plugins"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.workflow.script",
+  "en": "Workflow script"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.ralph.reportedComplete",
+  "en": "Worker reported completion"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.ralph.reportedBlocker",
+  "en": "Worker reported a blocker"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.ralph.limit",
+  "en": "Round limit reached"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.report.nextSteps",
+  "en": "Remaining work"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.trace.replacedBy",
+  "en": "Replaced by"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.trace.replacementChain",
+  "en": "Replacement chain"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.trace.replaces",
+  "en": "Replaced events"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.trace.sources",
+  "en": "Source events"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.trace.derived",
+  "en": "Derived events"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.trace.ancestors",
+  "en": "Ancestor sessions"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.trace.descendants",
+  "en": "Descendant sessions"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.matches.count",
+  "en": "{count} matches"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.matches.capped",
+  "en": "Result limit reached; narrow the search for more"
+ },
+ {
+  "ns": "conversation",
+  "key": "detail.event.neighbors",
+  "en": "Surrounding events"
+ },
+ {
+  "ns": "conversation",
+  "key": "todo.completed",
+  "en": "{done}/{total} completed"
+ },
+ {
+  "ns": "conversation",
+  "key": "command.attachmentsUnsupported",
+  "en": "/{command} does not accept attachments; remove them first"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.rowTitle",
+  "en": "Ask question"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.waiting",
+  "en": "waiting"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.pending",
+  "en": "continued; answer still available"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.pendingDetail",
+  "en": "These pending questions remain answerable from the composer."
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.reopen",
+  "en": "Answer"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.review",
+  "en": "View answers"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.closed",
+  "en": "closed"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.closedDetail",
+  "en": "This question is closed; its outcome is in the conversation below."
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.cancelled",
+  "en": "cancelled"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.cancelledDetail",
+  "en": "This question set was cancelled before answers were submitted."
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.interrupted",
+  "en": "interrupted"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.interruptedDetail",
+  "en": "This question set was interrupted before answers were submitted."
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.answered",
+  "en": "{answered}/{total} answered"
+ },
+ {
+  "ns": "conversation",
+  "key": "ask.skipped",
+  "en": "Not answered"
+ },
+ {
+  "ns": "conversation",
+  "key": "bash.running",
+  "en": "Running"
+ },
+ {
+  "ns": "conversation",
+  "key": "bash.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "conversation",
+  "key": "bash.stopped",
+  "en": "Stopped"
+ },
+ {
+  "ns": "conversation",
+  "key": "row.running",
+  "en": "Running"
+ },
+ {
+  "ns": "conversation",
+  "key": "row.preparing",
+  "en": "Preparing tool call"
+ },
+ {
+  "ns": "conversation",
+  "key": "row.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "conversation",
+  "key": "row.stopped",
+  "en": "Stopped"
+ },
+ {
+  "ns": "conversation",
+  "key": "row.input",
+  "en": "IN"
+ },
+ {
+  "ns": "conversation",
+  "key": "row.output",
+  "en": "OUT"
+ },
+ {
+  "ns": "conversation",
+  "key": "row.inspect",
+  "en": "Inspect"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.search",
+  "en": "Search"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.read",
+  "en": "Read"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.bash",
+  "en": "Bash"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.write",
+  "en": "Write"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.edit",
+  "en": "Edit"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.code",
+  "en": "Code"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.generic",
+  "en": "Tool call"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.inspect",
+  "en": "Query Cordis environment"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.runCordis",
+  "en": "Run Cordis Plugin"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.stopCordis",
+  "en": "Stop Cordis Plugin"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.removeCordis",
+  "en": "Remove Cordis Plugin"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.pwsh",
+  "en": "Pwsh"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.readImage",
+  "en": "Read image"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.grep",
+  "en": "Grep"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.glob",
+  "en": "Glob"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.webSearch",
+  "en": "Search"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.title.webFetch",
+  "en": "Fetch"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.autoReviewRejected",
+  "en": "Rejected by Auto review"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.autoReviewNotExecuted",
+  "en": "Tool was not executed. Reason: {reason}"
+ },
+ {
+  "ns": "conversation",
+  "key": "tool.autoReviewReasonFallback",
+  "en": "Auto review did not authorize this action"
+ },
+ {
+  "ns": "conversation",
+  "key": "diff.collapseAria",
+  "en": "Collapse diff"
+ },
+ {
+  "ns": "conversation",
+  "key": "diff.expandAria",
+  "en": "Expand {count} more diff lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "diff.expandRest",
+  "en": "… {count} more lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "read.window",
+  "en": "Showing {shown} of {total} lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "read.collapseAria",
+  "en": "Collapse content"
+ },
+ {
+  "ns": "conversation",
+  "key": "read.expandAria",
+  "en": "Expand {count} more lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "read.expandRest",
+  "en": "… {count} more lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.paths",
+  "en": "{shown} paths"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.paths.truncated",
+  "en": "Showing {shown} of {total} paths"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.matches",
+  "en": "{shown} matches · {files} files"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.matches.truncated",
+  "en": "Showing {shown} of {total} matches · {files} files"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.noResults",
+  "en": "No results"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.collapseAria",
+  "en": "Collapse results"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.expandAria",
+  "en": "Expand {count} more result lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "search.expandRest",
+  "en": "… {count} more lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "web.noResults",
+  "en": "No results found"
+ },
+ {
+  "ns": "conversation",
+  "key": "web.sourcesTruncated",
+  "en": "Source list truncated"
+ },
+ {
+  "ns": "conversation",
+  "key": "web.http",
+  "en": "HTTP"
+ },
+ {
+  "ns": "conversation",
+  "key": "web.contentTruncated",
+  "en": "Content truncated"
+ },
+ {
+  "ns": "conversation",
+  "key": "details.running",
+  "en": "Running…"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.count",
+  "en": "{n} queued messages"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.sending",
+  "en": "Sending…"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.image",
+  "en": "Queued message image"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.file",
+  "en": "Queued file {name}"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.edit",
+  "en": "Edit queued message"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.edit.unsupported",
+  "en": "Contains non-text content; editing is not supported yet"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.save",
+  "en": "Save queued message"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.cancelEdit",
+  "en": "Cancel editing"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.remove",
+  "en": "Remove queued message"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.steer",
+  "en": "Steer queued message"
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.steer.unavailable",
+  "en": "Steering is available only while the agent is running"
+ },
+ {
+  "ns": "conversation",
+  "key": "error.sessionInUse",
+  "en": "This session is already in use, possibly by another running DSH instance (such as dsh web or the desktop app). Quit other running DSH instances and try again."
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.editFailed",
+  "en": "Edit failed: this message may have already started sending."
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.removeFailed",
+  "en": "Removal failed: this message may have already started sending."
+ },
+ {
+  "ns": "conversation",
+  "key": "queue.steerFailed",
+  "en": "Steering failed. Try again."
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.signal",
+  "en": "signal {signal}"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.exitCode",
+  "en": "exit code {code}"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.noExitCode",
+  "en": "no exit code"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.running",
+  "en": "Running"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.done",
+  "en": "Done"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.noOutput",
+  "en": "No output"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.collapseAria",
+  "en": "Collapse output"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.expandAria",
+  "en": "Expand the remaining {n} output lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.expandRest",
+  "en": "… {n} more lines"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.sendInput",
+  "en": "(send input)"
+ },
+ {
+  "ns": "conversation",
+  "key": "terminal.session",
+  "en": "Terminal {sessionId}"
+ }
+]

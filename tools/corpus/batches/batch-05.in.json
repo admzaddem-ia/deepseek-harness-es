@@ -1,0 +1,1302 @@
+[
+ {
+  "ns": "schedule.manager",
+  "key": "panel",
+  "en": "Automation tasks"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "title",
+  "en": "Automation tasks"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "new.action",
+  "en": "New"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.label",
+  "en": "Task catalog"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.nextPrefix",
+  "en": "Next scheduled time: "
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.loading",
+  "en": "Loading tasks…"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.error",
+  "en": "Could not load tasks."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.empty",
+  "en": "No tasks yet. Tasks created in your sessions appear here."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.emptyInactive",
+  "en": "No inactive automation tasks"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "list.noMatches",
+  "en": "No matching tasks"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "search.label",
+  "en": "Search tasks"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "search.placeholder",
+  "en": "Search automation tasks"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "search.clear",
+  "en": "Clear search"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "empty.action",
+  "en": "New automation task"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "statusFilter.label",
+  "en": "Task status"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "statusFilter.all",
+  "en": "All"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "status.active",
+  "en": "Enabled"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "status.inactive",
+  "en": "Inactive"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.label",
+  "en": "Task details"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.close",
+  "en": "Close details"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.more",
+  "en": "Automation task actions"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.nextRun",
+  "en": "Next run"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.tabs",
+  "en": "Task detail views"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.rule",
+  "en": "Rules"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.records",
+  "en": "Delivery records"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.empty",
+  "en": "No delivery record available"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.loading",
+  "en": "Loading delivery records…"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.error",
+  "en": "Could not load delivery records."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.notFound",
+  "en": "This task is no longer available."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.cursorError",
+  "en": "Records were updated."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.refresh",
+  "en": "Refresh"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.loadMore",
+  "en": "Load more"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.expand",
+  "en": "Expand"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.collapse",
+  "en": "Collapse"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.pruned",
+  "en": "Earlier delivery records have been cleared"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.retention",
+  "en": "Retention rules"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.retentionBounds",
+  "en": "Each task keeps up to {records} delivery records from the last {days} days."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.retentionExplanation",
+  "en": "When a new record is saved, older records outside these limits are cleared automatically. Clearing records does not stop the task."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.name",
+  "en": "Automation task name"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.instruction",
+  "en": "Automation task instruction"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.status",
+  "en": "Status"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.next",
+  "en": "Next scheduled time"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.frequency",
+  "en": "Frequency"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.id",
+  "en": "Task ID"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.session",
+  "en": "Linked session"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.openSession",
+  "en": "Linked session: open original session"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.openSessionTitle",
+  "en": "Linked session {title}: open original session"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.sessionLoading",
+  "en": "Loading original session information."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.sessionArchived",
+  "en": "The original session is archived."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.sessionUnavailable",
+  "en": "The original session is unavailable."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "detail.missing",
+  "en": "Task unavailable. It may have been deleted."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delivery.label",
+  "en": "Saved delivery record"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "frequency.once",
+  "en": "Once"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "frequency.every",
+  "en": "Every {value} {unit}"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.date",
+  "en": "Date"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.time",
+  "en": "Time"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.hour",
+  "en": "Hour"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.minute",
+  "en": "Minute"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.second",
+  "en": "Second"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.prevMonth",
+  "en": "Previous month"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.nextMonth",
+  "en": "Next month"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.zone",
+  "en": "Time zone"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.zoneSearch",
+  "en": "Search by UTC offset, IANA ID, or city"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.zoneNoResults",
+  "en": "No matching time zones"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.interval",
+  "en": "Repeat every"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.intervalIncrease",
+  "en": "Increase interval"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.intervalDecrease",
+  "en": "Decrease interval"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.unit.hour",
+  "en": "hours"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.unit.minute",
+  "en": "minutes"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.unit.second",
+  "en": "seconds"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.intervalHint.hour",
+  "en": "At least 1 hour. The interval counts from task creation or the last rule change and is independent of time zones."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.intervalHint.minute",
+  "en": "At least 1 minute. The interval counts from task creation or the last rule change and is independent of time zones."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.intervalHint.second",
+  "en": "At least 60 seconds. The interval counts from task creation or the last rule change and is independent of time zones."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.zoneNoStored",
+  "en": "A one-time task stores only its target moment, not a time zone. The date and time are interpreted in the selected time zone."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.inactive",
+  "en": "Inactive tasks are read-only. Their timing cannot be edited."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.conflict",
+  "en": "This task changed while you were editing. Your draft is retained. Cancel and reopen after refresh to edit the latest rule."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.notFound",
+  "en": "This task is no longer available. Your draft is retained; cancel to close the editor."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.invalid",
+  "en": "Enter a valid date and time, or check the timing fields."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.invalidZone",
+  "en": "Enter a valid IANA time zone, for example Asia/Shanghai."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.notFuture",
+  "en": "Choose a date and time in the future."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.invalidInterval",
+  "en": "Enter an interval of at least 1 minute."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.invalidInterval.hour",
+  "en": "Enter an interval of at least 1 hour."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.invalidInterval.minute",
+  "en": "Enter an interval of at least 1 minute."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.invalidInterval.second",
+  "en": "Enter an interval of at least 60 seconds."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "timing.error",
+  "en": "Could not confirm the timing update. Your draft is retained. Check the task before retrying."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.title",
+  "en": "Run time"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.repeat",
+  "en": "Repeat"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.weekday",
+  "en": "Weekday"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.weekdayOption",
+  "en": "Weekday {weekday}"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.unsaved",
+  "en": "Unsaved changes"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.save",
+  "en": "Save changes"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.saving",
+  "en": "Saving…"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.invalidTitle",
+  "en": "Enter a task name of at most 120 characters."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.invalidPrompt",
+  "en": "Enter a task instruction."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.once",
+  "en": "Once"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.everyMinutes",
+  "en": "Every N minutes"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.everyHours",
+  "en": "Every N hours"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.everySeconds",
+  "en": "Every N seconds"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.daily",
+  "en": "Every day"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.weekdays",
+  "en": "Monday to Friday"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.weekly",
+  "en": "Weekly"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.cron",
+  "en": "Custom"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.cronLabel",
+  "en": "Cron expression"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.cronInvalid",
+  "en": "Enter a five-field cron expression, for example 0 9 * * 1-5."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.frequency",
+  "en": "Frequency"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.monthly",
+  "en": "Monthly"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.weekly",
+  "en": "Weekly"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.daily",
+  "en": "Every day"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.dates",
+  "en": "On dates"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.dateOption",
+  "en": "Day {day}"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.atMinute",
+  "en": "At minute"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.minuteIncrease",
+  "en": "Increase minute"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "cronForm.minuteDecrease",
+  "en": "Decrease minute"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.zone.system",
+  "en": " (system)"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.error.conflict",
+  "en": "This task changed before the update was saved. The row shows the saved rule; try again."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.error.notFound",
+  "en": "This task is no longer available."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "rule.error.unknown",
+  "en": "Could not confirm the rule update. The row shows the saved rule."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delete.action",
+  "en": "Delete task"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delete.title",
+  "en": "Delete this task?"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delete.description",
+  "en": "This stops the task from triggering and deletes it together with its saved delivery records. The original session and its messages remain; queued messages are not withdrawn."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delete.confirm",
+  "en": "Confirm deletion"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delete.cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delete.close",
+  "en": "Close deletion confirmation"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "delete.pending",
+  "en": "Deleting…"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "toast.deleted",
+  "en": "Task deleted."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "toast.deleteFailed",
+  "en": "Could not delete the task."
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "card.open",
+  "en": "Open"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "card.openLabel",
+  "en": "Open task details: {title}"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "card.deleted",
+  "en": "Deleted"
+ },
+ {
+  "ns": "schedule.manager",
+  "key": "tool.invoked",
+  "en": "Invoked {name}"
+ },
+ {
+  "ns": "settings.models",
+  "key": "nav",
+  "en": "Models"
+ },
+ {
+  "ns": "settings.models",
+  "key": "deepSeekAccount",
+  "en": "DeepSeek Account"
+ },
+ {
+  "ns": "settings.models",
+  "key": "title",
+  "en": "Models"
+ },
+ {
+  "ns": "settings.models",
+  "key": "intro",
+  "en": "Enter your API keys to use models from the following providers."
+ },
+ {
+  "ns": "settings.models",
+  "key": "edit",
+  "en": "Edit"
+ },
+ {
+  "ns": "settings.models",
+  "key": "editProvider",
+  "en": "Edit {provider}"
+ },
+ {
+  "ns": "settings.models",
+  "key": "remove",
+  "en": "Delete"
+ },
+ {
+  "ns": "settings.models",
+  "key": "removeProvider",
+  "en": "Delete {provider}"
+ },
+ {
+  "ns": "settings.models",
+  "key": "deleteTitle",
+  "en": "Delete {provider}?"
+ },
+ {
+  "ns": "settings.models",
+  "key": "deleteDescription",
+  "en": "Deleting {provider} removes its configuration. Any credential it uses is managed elsewhere and will be kept."
+ },
+ {
+  "ns": "settings.models",
+  "key": "deleteDescriptionWithCredential",
+  "en": "Deleting {provider} removes its configuration and stored API key."
+ },
+ {
+  "ns": "settings.models",
+  "key": "deleteConfirm",
+  "en": "Delete {provider}"
+ },
+ {
+  "ns": "settings.models",
+  "key": "deleting",
+  "en": "Deleting {provider}…"
+ },
+ {
+  "ns": "settings.models",
+  "key": "add",
+  "en": "Add model provider"
+ },
+ {
+  "ns": "settings.models",
+  "key": "addMode",
+  "en": "How to add"
+ },
+ {
+  "ns": "settings.models",
+  "key": "addCatalog",
+  "en": "Third-party model provider"
+ },
+ {
+  "ns": "settings.models",
+  "key": "addCustom",
+  "en": "Custom model API"
+ },
+ {
+  "ns": "settings.models",
+  "key": "addCatalogHint",
+  "en": "Pick OpenAI, Anthropic, Kimi, or another provider from the built-in catalog and enter its API key."
+ },
+ {
+  "ns": "settings.models",
+  "key": "addCustomHint",
+  "en": "Connect a relay, a self-hosted server, or any other OpenAI- or Anthropic-compatible endpoint by its base URL, protocol, and models."
+ },
+ {
+  "ns": "settings.models",
+  "key": "addCatalogExhausted",
+  "en": "Every catalog provider is already configured."
+ },
+ {
+  "ns": "settings.models",
+  "key": "addCustomUnavailable",
+  "en": "No API protocol is available to declare."
+ },
+ {
+  "ns": "settings.models",
+  "key": "provider",
+  "en": "Provider"
+ },
+ {
+  "ns": "settings.models",
+  "key": "close",
+  "en": "Close"
+ },
+ {
+  "ns": "settings.models",
+  "key": "cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "settings.models",
+  "key": "apply",
+  "en": "Apply"
+ },
+ {
+  "ns": "settings.models",
+  "key": "applying",
+  "en": "Applying…"
+ },
+ {
+  "ns": "settings.models",
+  "key": "savedProvider",
+  "en": "Saved {provider}."
+ },
+ {
+  "ns": "settings.models",
+  "key": "credentialConfigured",
+  "en": "API key configured"
+ },
+ {
+  "ns": "settings.models",
+  "key": "credentialMissing",
+  "en": "API key missing"
+ },
+ {
+  "ns": "settings.models",
+  "key": "readOnly",
+  "en": "The settings document is read-only in this deployment."
+ },
+ {
+  "ns": "settings.models",
+  "key": "loadFailed",
+  "en": "Loading the provider directory failed"
+ },
+ {
+  "ns": "settings.models",
+  "key": "conflict",
+  "en": "Someone else changed these settings while this card was open. Close it and reopen to edit the current values."
+ },
+ {
+  "ns": "settings.models",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyInput",
+  "en": "API key"
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyPlaceholder",
+  "en": "Enter your API key"
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyPlaceholderNative",
+  "en": "Enter an API key, or leave blank to use environment authentication"
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyStored",
+  "en": "Configured — enter a new value to replace"
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyEnvLocked",
+  "en": "Provided by the launch environment (read-only)"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customized",
+  "en": "Customized settings"
+ },
+ {
+  "ns": "settings.models",
+  "key": "baseUrl",
+  "en": "Base URL"
+ },
+ {
+  "ns": "settings.models",
+  "key": "baseUrlDefault",
+  "en": "Provider default"
+ },
+ {
+  "ns": "settings.models",
+  "key": "deepSeekBaseUrl",
+  "en": "https://api.deepseek.com/anthropic"
+ },
+ {
+  "ns": "settings.models",
+  "key": "deepSeekEndpointHint",
+  "en": "Use an API endpoint compatible with Anthropic Messages."
+ },
+ {
+  "ns": "settings.models",
+  "key": "models",
+  "en": "Models"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelsInherited",
+  "en": "Using the adapter defaults"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelsCustomized",
+  "en": "Customized model catalog"
+ },
+ {
+  "ns": "settings.models",
+  "key": "resetModels",
+  "en": "Restore defaults"
+ },
+ {
+  "ns": "settings.models",
+  "key": "model",
+  "en": "Model"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelId",
+  "en": "Model ID"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelName",
+  "en": "Display name"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelNamePlaceholder",
+  "en": "Uses the model ID when empty"
+ },
+ {
+  "ns": "settings.models",
+  "key": "contextWindow",
+  "en": "Context window"
+ },
+ {
+  "ns": "settings.models",
+  "key": "contextWindowPlaceholder",
+  "en": "Uses the provider default"
+ },
+ {
+  "ns": "settings.models",
+  "key": "maxTokens",
+  "en": "Max output tokens"
+ },
+ {
+  "ns": "settings.models",
+  "key": "maxTokensPlaceholder",
+  "en": "Uses the provider default"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelAdvanced",
+  "en": "Model options"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelInputTypes",
+  "en": "Input types"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelInputText",
+  "en": "Text"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelInputImage",
+  "en": "Image"
+ },
+ {
+  "ns": "settings.models",
+  "key": "addModel",
+  "en": "Add model"
+ },
+ {
+  "ns": "settings.models",
+  "key": "removeModel",
+  "en": "Delete model"
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelsEmpty",
+  "en": "No models will be shown in the selector. Unlisted IDs can still be sent directly."
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyBlank",
+  "en": "Enter the API key, or leave the field empty to keep the stored one."
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyBlankNew",
+  "en": "Enter the API key, or leave the field empty if this provider authenticates another way."
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyIllegalCharacters",
+  "en": "This API key is not in a valid format. Please check it."
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelIdRequired",
+  "en": "Model ID is required."
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelIdDuplicate",
+  "en": "Model ID must be unique."
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelNameInvalid",
+  "en": "Display name cannot be empty."
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelContextInvalid",
+  "en": "Context window must be a positive count, like 131072, 256K, or 1M."
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelMaxTokensInvalid",
+  "en": "Max output tokens must be a positive count, like 8192, 64K, or 1M."
+ },
+ {
+  "ns": "settings.models",
+  "key": "advancedHint",
+  "en": "Other fields live in cordis.patch.yml; edit that section directly."
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelCapacityInvalid",
+  "en": "A capacity must be a number, optionally suffixed K or M."
+ },
+ {
+  "ns": "settings.models",
+  "key": "modelDuplicate",
+  "en": "Each model ID may appear once."
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchModels",
+  "en": "Fetch available models"
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetching",
+  "en": "Asking the provider…"
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchNeedsBaseUrl",
+  "en": "Enter the base URL first, then fetch."
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchEmpty",
+  "en": "The provider listed no models. Add them by hand."
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchTitle",
+  "en": "Choose models to add"
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchDescription",
+  "en": "These are the models this provider has available. Choose the ones to add."
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchSearch",
+  "en": "Search models"
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchNoMatches",
+  "en": "No matching models."
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchSelectAll",
+  "en": "Select all"
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchDeselectAll",
+  "en": "Deselect all"
+ },
+ {
+  "ns": "settings.models",
+  "key": "fetchAdopt",
+  "en": "Add selected"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customTag",
+  "en": "Custom"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customRoute",
+  "en": "Provider ID"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customRouteHint",
+  "en": "Lowercase identifier, starting with a letter, that uniquely names this provider in requests and as its credential name."
+ },
+ {
+  "ns": "settings.models",
+  "key": "customRouteInvalid",
+  "en": "Start with a lowercase letter; then lowercase letters, digits, and dashes."
+ },
+ {
+  "ns": "settings.models",
+  "key": "customRouteTaken",
+  "en": "A provider already uses this ID."
+ },
+ {
+  "ns": "settings.models",
+  "key": "customDisplayName",
+  "en": "Display name"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customApi",
+  "en": "API protocol"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customApiUnset",
+  "en": "Not selected"
+ },
+ {
+  "ns": "settings.models",
+  "key": "protocolOpenAiCompletions",
+  "en": "OpenAI Chat Completions"
+ },
+ {
+  "ns": "settings.models",
+  "key": "protocolOpenAiResponses",
+  "en": "OpenAI Responses"
+ },
+ {
+  "ns": "settings.models",
+  "key": "protocolAnthropicMessages",
+  "en": "Anthropic Messages"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customNeedsBaseUrl",
+  "en": "A custom provider needs a base URL."
+ },
+ {
+  "ns": "settings.models",
+  "key": "customBaseUrlInvalid",
+  "en": "Enter a valid HTTP or HTTPS URL."
+ },
+ {
+  "ns": "settings.models",
+  "key": "customNeedsModels",
+  "en": "A custom provider needs at least one model."
+ },
+ {
+  "ns": "settings.models",
+  "key": "customBaseUrlPlaceholder",
+  "en": "https://gateway.example/v1"
+ },
+ {
+  "ns": "settings.models",
+  "key": "customAnthropicBaseUrlPlaceholder",
+  "en": "https://gateway.example"
+ },
+ {
+  "ns": "settings.models",
+  "key": "settingsPathUnresolvable",
+  "en": "unresolvable settings path"
+ },
+ {
+  "ns": "settings.models",
+  "key": "create",
+  "en": "Create provider"
+ },
+ {
+  "ns": "settings.models",
+  "key": "creating",
+  "en": "Creating…"
+ },
+ {
+  "ns": "settings.models",
+  "key": "welcomeTitle",
+  "en": "Preview Notice"
+ },
+ {
+  "ns": "settings.models",
+  "key": "welcomeBody",
+  "en": "DeepSeek Harness 0.2 is still in preview, and many areas need continued improvement and refinement. We welcome feedback and suggestions from all developers and users. The new desktop app now targets a broad range of users, while developer-related advanced features can be enabled in the settings. DeepSeek Harness’s product features and plugin APIs are expected to continue rapid iteration and evolution, and will gradually stabilize over time.\n\nWe look forward to exploring the limits of intelligence together with users and developers around the world, building on open-source, reusable, and composable infrastructure. We welcome everyone to bring their ideas to life with DeepSeek Harness and participate in the community to enrich the plugin ecosystem."
+ },
+ {
+  "ns": "settings.models",
+  "key": "welcomeContinue",
+  "en": "Continue"
+ },
+ {
+  "ns": "settings.models",
+  "key": "welcomeError",
+  "en": "The acknowledgement could not be saved. Please try again."
+ },
+ {
+  "ns": "settings.models",
+  "key": "onboardingTitle",
+  "en": "Add an API key to get started"
+ },
+ {
+  "ns": "settings.models",
+  "key": "onboardingDescription",
+  "en": "Configure the official DeepSeek provider to start building."
+ },
+ {
+  "ns": "settings.models",
+  "key": "onboardingLater",
+  "en": "Configure later"
+ },
+ {
+  "ns": "settings.models",
+  "key": "onboardingSave",
+  "en": "Save and continue"
+ },
+ {
+  "ns": "settings.models",
+  "key": "onboardingSaving",
+  "en": "Saving…"
+ },
+ {
+  "ns": "settings.models",
+  "key": "keyRequired",
+  "en": "Enter an API key to continue."
+ },
+ {
+  "ns": "settings.shell",
+  "key": "title",
+  "en": "Shell"
+ },
+ {
+  "ns": "settings.shell",
+  "key": "description",
+  "en": "Limit how long each command may run and how much it may output."
+ },
+ {
+  "ns": "settings.shell",
+  "key": "timeoutMs",
+  "en": "Command timeout (ms)"
+ },
+ {
+  "ns": "settings.shell",
+  "key": "timeoutMsHint",
+  "en": "How long one command may run before it is terminated."
+ },
+ {
+  "ns": "settings.shell",
+  "key": "maxOutputBytes",
+  "en": "Output cap per stream (bytes)"
+ },
+ {
+  "ns": "settings.shell",
+  "key": "maxOutputBytesHint",
+  "en": "Output beyond this spills to a temporary file rather than being lost."
+ },
+ {
+  "ns": "settings.shell",
+  "key": "overridden",
+  "en": "Overridden"
+ },
+ {
+  "ns": "settings.shell",
+  "key": "reset",
+  "en": "Reset to default"
+ },
+ {
+  "ns": "settings.shell",
+  "key": "readOnly",
+  "en": "This deployment stores settings read-only."
+ },
+ {
+  "ns": "settings.shell",
+  "key": "unavailable",
+  "en": "This plugin is not loaded, so it cannot be configured right now."
+ },
+ {
+  "ns": "settings.shell",
+  "key": "save",
+  "en": "Save"
+ },
+ {
+  "ns": "settings.shell",
+  "key": "saving",
+  "en": "Saving…"
+ },
+ {
+  "ns": "settings.shell",
+  "key": "saveFailed",
+  "en": "The deployment did not accept these values; they were left for you to correct."
+ },
+ {
+  "ns": "settings.shell",
+  "key": "invalidNumber",
+  "en": "Enter a number, or leave blank to use the default."
+ }
+]

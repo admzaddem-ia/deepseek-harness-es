@@ -1,0 +1,131 @@
+[
+ {
+  "id": "01",
+  "keys": 369,
+  "namespaces": [
+   "conversation"
+  ],
+  "inFile": "batch-01.in.json",
+  "outFile": "batch-01.out.json"
+ },
+ {
+  "id": "02",
+  "keys": 260,
+  "namespaces": [
+   "trajectory",
+   "deliverables",
+   "skill"
+  ],
+  "inFile": "batch-02.in.json",
+  "outFile": "batch-02.out.json"
+ },
+ {
+  "id": "03",
+  "keys": 260,
+  "namespaces": [
+   "pluginManager",
+   "shortcuts",
+   "open-in-app"
+  ],
+  "inFile": "batch-03.in.json",
+  "outFile": "batch-03.out.json"
+ },
+ {
+  "id": "04",
+  "keys": 260,
+  "namespaces": [
+   "chat",
+   "cordis",
+   "model"
+  ],
+  "inFile": "batch-04.in.json",
+  "outFile": "batch-04.out.json"
+ },
+ {
+  "id": "05",
+  "keys": 260,
+  "namespaces": [
+   "schedule.manager",
+   "settings.models",
+   "settings.shell"
+  ],
+  "inFile": "batch-05.in.json",
+  "outFile": "batch-05.out.json"
+ },
+ {
+  "id": "06",
+  "keys": 260,
+  "namespaces": [
+   "workspace",
+   "voice-input",
+   "common",
+   "approval",
+   "settings.locale"
+  ],
+  "inFile": "batch-06.in.json",
+  "outFile": "batch-06.out.json"
+ },
+ {
+  "id": "07",
+  "keys": 259,
+  "namespaces": [
+   "settings.account",
+   "settings.pluginInventory",
+   "job",
+   "subagent",
+   "settings.subagent",
+   "goal",
+   "shortcuts.layout"
+  ],
+  "inFile": "batch-07.in.json",
+  "outFile": "batch-07.out.json"
+ },
+ {
+  "id": "08",
+  "keys": 260,
+  "namespaces": [
+   "settings",
+   "sidebarRight",
+   "question",
+   "command",
+   "sidebarTerminal",
+   "sidebarBrowser",
+   "agent-team",
+   "settings.agentPreset",
+   "sidebarDocumentPreview",
+   "session-log-download"
+  ],
+  "inFile": "batch-08.in.json",
+  "outFile": "batch-08.out.json"
+ },
+ {
+  "id": "09",
+  "keys": 245,
+  "namespaces": [
+   "feedback",
+   "settings.webSearch",
+   "workflowRun",
+   "permission.access",
+   "plan",
+   "sidebarFiles",
+   "schedule.catalog",
+   "sidebarOffice",
+   "sidebarExcel",
+   "settings.permission",
+   "settings.agentLoop",
+   "reference",
+   "slash.menu",
+   "sidebarPdf",
+   "settings.theme",
+   "settings.plugins",
+   "sidebar",
+   "sidebarImage",
+   "settings.sessionLog",
+   "documentMarkdown",
+   "documentHtml",
+   "sidebarCodePreview"
+  ],
+  "inFile": "batch-09.in.json",
+  "outFile": "batch-09.out.json"
+ }
+]

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reconocimiento de voz Whisper (local)",
+    "description": "Reconocimiento multilingüe local con Whisper; agrega español y casi cualquier idioma a la entrada de voz"
+  }
+}

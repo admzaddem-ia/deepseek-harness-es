@@ -1,0 +1,19 @@
+# Dependencias y basura de desarrollo
+node_modules/
+pnpm-lock.yaml
+*.log
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Modelos descargados (nunca se publican)
+**/*.onnx
+**/*.onnx.part
+models/

@@ -1,0 +1,8 @@
+# Normaliza los finales de línea a LF en el repositorio (independiente del sistema del autor) y trata
+# los archivos binarios como tales, para que los diffs y las descargas sean predecibles.
+* text=auto eol=lf
+*.wav binary
+*.png binary
+*.jpg binary
+*.ico binary
+*.onnx binary

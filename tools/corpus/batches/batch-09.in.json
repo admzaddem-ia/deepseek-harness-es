@@ -1,0 +1,1227 @@
+[
+ {
+  "ns": "feedback",
+  "key": "action.like",
+  "en": "Good response"
+ },
+ {
+  "ns": "feedback",
+  "key": "action.likeActive",
+  "en": "Remove rating"
+ },
+ {
+  "ns": "feedback",
+  "key": "action.dislike",
+  "en": "Bad response"
+ },
+ {
+  "ns": "feedback",
+  "key": "action.dislikeActive",
+  "en": "Remove rating"
+ },
+ {
+  "ns": "feedback",
+  "key": "dialog.title",
+  "en": "Submit feedback"
+ },
+ {
+  "ns": "feedback",
+  "key": "dialog.categories",
+  "en": "Feedback category"
+ },
+ {
+  "ns": "feedback",
+  "key": "dialog.detail",
+  "en": "Feedback details"
+ },
+ {
+  "ns": "feedback",
+  "key": "dialog.hint",
+  "en": "Add details to help us improve. Your submission will include the current conversation log."
+ },
+ {
+  "ns": "feedback",
+  "key": "category.task-result",
+  "en": "Task result"
+ },
+ {
+  "ns": "feedback",
+  "key": "category.instruction-following",
+  "en": "Instruction understanding and following"
+ },
+ {
+  "ns": "feedback",
+  "key": "category.product-interaction",
+  "en": "Product features and interaction"
+ },
+ {
+  "ns": "feedback",
+  "key": "category.service-stability",
+  "en": "Stability and speed"
+ },
+ {
+  "ns": "feedback",
+  "key": "category.resource-cost",
+  "en": "Resource usage and cost"
+ },
+ {
+  "ns": "feedback",
+  "key": "category.security-privacy-permission",
+  "en": "Security, privacy, and permissions"
+ },
+ {
+  "ns": "feedback",
+  "key": "category.other",
+  "en": "Other"
+ },
+ {
+  "ns": "feedback",
+  "key": "toast.recorded",
+  "en": "Thanks for your feedback"
+ },
+ {
+  "ns": "feedback",
+  "key": "error.conflict",
+  "en": "This feedback changed elsewhere; the latest state is shown"
+ },
+ {
+  "ns": "feedback",
+  "key": "error.load",
+  "en": "Could not load feedback"
+ },
+ {
+  "ns": "feedback",
+  "key": "error.generic",
+  "en": "Could not save feedback"
+ },
+ {
+  "ns": "feedback",
+  "key": "error.noteTooLarge",
+  "en": "The description is too long; shorten it and submit again"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "title",
+  "en": "Web search"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "description",
+  "en": "Set up the DeepSeek search provider."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "apiKey",
+  "en": "API key"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "apiKeyHint",
+  "en": "Stored outside the settings file. Leave blank to keep the current key."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "apiKeySet",
+  "en": "A key is configured."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "apiKeyUnset",
+  "en": "No key is configured; only conversations using a DeepSeek Account model can search, through the default endpoint."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "baseUrl",
+  "en": "Endpoint"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "baseUrlHint",
+  "en": "Leave blank to use the provider default."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "maxUses",
+  "en": "Max searches per request"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "maxUsesHint",
+  "en": "How many times one request may search before it must answer."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "overridden",
+  "en": "Overridden"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "reset",
+  "en": "Reset to default"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "readOnly",
+  "en": "This deployment stores settings read-only."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "unavailable",
+  "en": "This plugin is not loaded, so it cannot be configured right now."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "save",
+  "en": "Save"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "saving",
+  "en": "Saving…"
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "saveFailed",
+  "en": "The deployment did not accept these values; they were left for you to correct."
+ },
+ {
+  "ns": "settings.webSearch",
+  "key": "invalidNumber",
+  "en": "Enter a number, or leave blank to use the default."
+ },
+ {
+  "ns": "workflowRun",
+  "key": "run.title",
+  "en": "{name}"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "run.members.one",
+  "en": "{count} member"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "run.members.other",
+  "en": "{count} members"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "run.empty",
+  "en": "No members started"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "phase.unassigned",
+  "en": "Unphased"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "phase.empty",
+  "en": "Empty phase name"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "statusCount.running",
+  "en": "Running {count}"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "statusCount.completed",
+  "en": "Completed {count}"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "statusCount.failed",
+  "en": "Failed {count}"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "statusCount.cancelled",
+  "en": "Cancelled {count}"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "statusCount.interrupted",
+  "en": "Interrupted {count}"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "member.empty",
+  "en": "Empty member name"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "member.open",
+  "en": "Open {name}"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "status.running",
+  "en": "Running"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "status.completed",
+  "en": "Completed"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "status.failed",
+  "en": "Failed"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "status.cancelled",
+  "en": "Cancelled"
+ },
+ {
+  "ns": "workflowRun",
+  "key": "status.interrupted",
+  "en": "Interrupted"
+ },
+ {
+  "ns": "permission.access",
+  "key": "mode",
+  "en": "Access mode, current: {name}"
+ },
+ {
+  "ns": "permission.access",
+  "key": "close",
+  "en": "Close"
+ },
+ {
+  "ns": "permission.access",
+  "key": "preset.readOnly",
+  "en": "Read Only"
+ },
+ {
+  "ns": "permission.access",
+  "key": "preset.workspaceWrite",
+  "en": "Workspace Write"
+ },
+ {
+  "ns": "permission.access",
+  "key": "preset.fullAccess",
+  "en": "Full access"
+ },
+ {
+  "ns": "permission.access",
+  "key": "confirm.title",
+  "en": "Enable Full access?"
+ },
+ {
+  "ns": "permission.access",
+  "key": "confirm.description",
+  "en": "Full access reduces confirmation steps and lets the agent perform more actions directly, including sensitive operations, file changes, or external commands. Only use it when you trust the current task."
+ },
+ {
+  "ns": "permission.access",
+  "key": "confirm.acknowledge",
+  "en": "I understand the risks and want to continue"
+ },
+ {
+  "ns": "permission.access",
+  "key": "confirm.cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "permission.access",
+  "key": "confirm.enable",
+  "en": "Enable Full access"
+ },
+ {
+  "ns": "permission.access",
+  "key": "auto.label",
+  "en": "Auto review"
+ },
+ {
+  "ns": "permission.access",
+  "key": "auto.badge",
+  "en": "EXP"
+ },
+ {
+  "ns": "permission.access",
+  "key": "auto.description",
+  "en": "Run without a sandbox after an experimental same-model review of every native tool call and PTC inner call."
+ },
+ {
+  "ns": "permission.access",
+  "key": "auto.confirm.title",
+  "en": "Enable Auto review (experimental)?"
+ },
+ {
+  "ns": "permission.access",
+  "key": "auto.confirm.description",
+  "en": "Auto review runs without a sandbox. Before every native tool call and PTC inner call, the same model as the current agent reviews whether to allow it; you approve or reject each call it denies. This feature is experimental, can falsely allow or deny actions, and uses additional tokens."
+ },
+ {
+  "ns": "permission.access",
+  "key": "auto.confirm.acknowledge",
+  "en": "I understand these risks and want to continue"
+ },
+ {
+  "ns": "permission.access",
+  "key": "auto.confirm.enable",
+  "en": "Enable Auto review"
+ },
+ {
+  "ns": "plan",
+  "key": "chip.label",
+  "en": "Plan"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.title",
+  "en": "Plan"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.document",
+  "en": "Plan · Markdown"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.action",
+  "en": "Open"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.open",
+  "en": "Open plan in sidebar"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.full",
+  "en": "View full plan"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.openNamed",
+  "en": "Open plan: {title}"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.loading",
+  "en": "Loading plan…"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.failed",
+  "en": "Could not load plan"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.invalidAddress",
+  "en": "Invalid plan address"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.historyUnavailable",
+  "en": "Session history is unavailable"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.notFound",
+  "en": "This plan was not found"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.unavailable",
+  "en": "Plan preview is unavailable"
+ },
+ {
+  "ns": "plan",
+  "key": "preview.expired",
+  "en": "This temporary plan preview has expired. Reopen it from the pending review card."
+ },
+ {
+  "ns": "plan",
+  "key": "chip.on.aria",
+  "en": "Plan mode on, press to turn off"
+ },
+ {
+  "ns": "plan",
+  "key": "chip.on.title",
+  "en": "Plan mode on — click to turn off (/plan off)"
+ },
+ {
+  "ns": "plan",
+  "key": "chip.exitFailed",
+  "en": "Failed to exit plan mode"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "shortcut.noSession",
+  "en": "Select a session first"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "type.label",
+  "en": "Files"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "guide.title",
+  "en": "Workspace files"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "guide.description",
+  "en": "Browse files in this session's workspace"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "loading",
+  "en": "Reading…"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "empty",
+  "en": "Empty directory"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "truncated",
+  "en": "Too many entries, showing only some of them."
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "noWorkspace",
+  "en": "This session has no workspace directory."
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "reload",
+  "en": "Reload"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "autoRefresh",
+  "en": "Auto refresh"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "autoRefresh.enable",
+  "en": "Enable auto refresh"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "autoRefresh.disable",
+  "en": "Disable auto refresh"
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "entry.other",
+  "en": "Not a file or a directory, so it cannot be opened."
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "error.notFound",
+  "en": "That directory is gone. It may have been moved or deleted."
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "error.outsideWorkspace",
+  "en": "That directory is outside the workspace, so the sidebar will not read it."
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "error.notDirectory",
+  "en": "That is not a directory."
+ },
+ {
+  "ns": "sidebarFiles",
+  "key": "error.unavailable",
+  "en": "Read failed: {message}"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "trigger.label",
+  "en": "Reminders"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "list.loading",
+  "en": "Loading reminders…"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "list.error",
+  "en": "Could not load reminders."
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "list.retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "delete.action",
+  "en": "Delete"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "delete.pending",
+  "en": "Deleting…"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "delete.label",
+  "en": "Delete reminder: {title}"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "list.open",
+  "en": "Open reminder details: {title}"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "trigger.one",
+  "en": "{count} reminder"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "trigger.other",
+  "en": "{count} reminders"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "list.aria",
+  "en": "Active reminders"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "list.nextRun",
+  "en": "Next run"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "frequency.once",
+  "en": "Once"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "frequency.every",
+  "en": "Every {value} {unit}"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "mark.aria",
+  "en": "{count} scheduled tasks"
+ },
+ {
+  "ns": "schedule.catalog",
+  "key": "hover.more",
+  "en": "{count} more"
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "title",
+  "en": "Office document"
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "loading",
+  "en": "Rendering document..."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "viewMissingFonts",
+  "en": "Missing fonts: {count}. Click to view."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "missingFontsTitle",
+  "en": "Missing fonts"
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "missingFontsDescription",
+  "en": "These fonts are unavailable for this preview. Text and layout may differ from the original document."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "missingFontsCount",
+  "en": "Fonts: {count}"
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "closeDetails",
+  "en": "Close font details"
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "unavailable",
+  "en": "Office previews are unavailable. Enable the document preview service on the computer running DeepSeek Harness."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "invalid",
+  "en": "This Office file cannot be previewed. It may be damaged, password protected, or have the wrong extension."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "tooLarge",
+  "en": "The Office file or converted PDF exceeds the preview size limit. Reduce the file size or adjust the preview configuration."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "failed",
+  "en": "Office conversion did not produce a usable PDF. Check the file and try again."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "timeout",
+  "en": "Office conversion timed out. Try again."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "busy",
+  "en": "Office preview is busy. Try again shortly."
+ },
+ {
+  "ns": "sidebarOffice",
+  "key": "changed",
+  "en": "The file changed while being read. Reopen the preview."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "title",
+  "en": "Spreadsheet"
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "language",
+  "en": "en"
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "loading",
+  "en": "Rendering document..."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "invalid",
+  "en": "This spreadsheet could not be opened. Check its format, contents, or password protection."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "tooLarge",
+  "en": "This workbook exceeds the preview size limit."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "timeout",
+  "en": "Opening this workbook timed out. Try a smaller file."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "encoding",
+  "en": "This text encoding could not be read. Save the file as UTF-8 or UTF-16 with a BOM and retry."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "formulaWarning",
+  "en": "This workbook contains formulas. Displayed results may be missing or inaccurate."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "unsupportedNotice",
+  "en": "This preview does not support {features} in this workbook. Open it in a system application for the full experience."
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "charts",
+  "en": "charts"
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "images",
+  "en": "images"
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "shapes",
+  "en": "shapes"
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "conditionalFormatting",
+  "en": "conditional formatting"
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "featureSeparator",
+  "en": ", "
+ },
+ {
+  "ns": "sidebarExcel",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "title",
+  "en": "Permission"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "description",
+  "en": "Choose the default permission mode for new sessions"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "loading",
+  "en": "Loading"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "unavailable",
+  "en": "Unavailable"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "preset.readOnly",
+  "en": "Read Only"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "preset.workspaceWrite",
+  "en": "Workspace Write"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "preset.fullAccess",
+  "en": "Full access"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "confirm.title",
+  "en": "Enable Full access?"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "confirm.description",
+  "en": "Full access lets new sessions reduce confirmation steps and perform more actions directly, including sensitive operations, file changes, or external commands. Only use it when you trust subsequent tasks."
+ },
+ {
+  "ns": "settings.permission",
+  "key": "confirm.acknowledge",
+  "en": "I understand the risks and want to continue"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "confirm.cancel",
+  "en": "Cancel"
+ },
+ {
+  "ns": "settings.permission",
+  "key": "confirm.enable",
+  "en": "Enable Full access"
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "title",
+  "en": "Agent loop"
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "description",
+  "en": "Control how the Agent dispatches tool calls."
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "maxParallel",
+  "en": "Parallel tool calls"
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "maxParallelHint",
+  "en": "Upper bound on parallel-safe calls running at once within one step."
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "overridden",
+  "en": "Overridden"
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "reset",
+  "en": "Reset to default"
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "readOnly",
+  "en": "This deployment stores settings read-only."
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "unavailable",
+  "en": "This plugin is not loaded, so it cannot be configured right now."
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "save",
+  "en": "Save"
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "saving",
+  "en": "Saving…"
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "saveFailed",
+  "en": "The deployment did not accept these values; they were left for you to correct."
+ },
+ {
+  "ns": "settings.agentLoop",
+  "key": "invalidNumber",
+  "en": "Enter a number, or leave blank to use the default."
+ },
+ {
+  "ns": "reference",
+  "key": "section.files",
+  "en": "Files & folders"
+ },
+ {
+  "ns": "reference",
+  "key": "section.subagents",
+  "en": "Subagents"
+ },
+ {
+  "ns": "reference",
+  "key": "section.sessions",
+  "en": "Sessions"
+ },
+ {
+  "ns": "reference",
+  "key": "candidate.noCwd",
+  "en": "(no cwd)"
+ },
+ {
+  "ns": "reference",
+  "key": "crumb.root",
+  "en": "Workspace"
+ },
+ {
+  "ns": "reference",
+  "key": "time.now",
+  "en": "now"
+ },
+ {
+  "ns": "reference",
+  "key": "time.minutes",
+  "en": "{n}min"
+ },
+ {
+  "ns": "reference",
+  "key": "time.hours",
+  "en": "{n}h"
+ },
+ {
+  "ns": "reference",
+  "key": "time.days",
+  "en": "{n}d"
+ },
+ {
+  "ns": "reference",
+  "key": "time.months",
+  "en": "{n}mo"
+ },
+ {
+  "ns": "reference",
+  "key": "time.years",
+  "en": "{n}y"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "command",
+  "en": "Commands"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "skill",
+  "en": "Skills"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "subagent",
+  "en": "Subagents"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "loading",
+  "en": "Loading…"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "drill.aria",
+  "en": "Browse folder"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "drill.hint",
+  "en": "Browse folder"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "drill.key",
+  "en": "Tab"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "crumbs.aria",
+  "en": "Folder navigation"
+ },
+ {
+  "ns": "slash.menu",
+  "key": "suggestions.aria",
+  "en": "Trigger suggestions"
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "title",
+  "en": "PDF"
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "pageImage",
+  "en": "PDF page {page}"
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "loading",
+  "en": "Rendering document..."
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "rendering",
+  "en": "Rendering page…"
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "failed",
+  "en": "Cannot display PDF: {message}"
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "password",
+  "en": "This PDF requires a password; password-protected previews are not supported."
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "workerFailed",
+  "en": "The PDF rendering process could not continue. Please retry."
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "unsupported",
+  "en": "PDF preview requires the complete file contents."
+ },
+ {
+  "ns": "sidebarPdf",
+  "key": "retry",
+  "en": "Retry"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "appearance.title",
+  "en": "Appearance"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "appearance.light",
+  "en": "Light"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "appearance.dark",
+  "en": "Dark"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "appearance.system",
+  "en": "System"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "fontSize.title",
+  "en": "Font size"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "fontSize.description",
+  "en": "Only affects conversation content"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "fontSize.unit",
+  "en": "px"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "fontSize.increase",
+  "en": "Increase font size"
+ },
+ {
+  "ns": "settings.theme",
+  "key": "fontSize.decrease",
+  "en": "Decrease font size"
+ },
+ {
+  "ns": "settings.plugins",
+  "key": "nav",
+  "en": "Built-in plugins"
+ },
+ {
+  "ns": "settings.plugins",
+  "key": "title",
+  "en": "Built-in plugins"
+ },
+ {
+  "ns": "settings.plugins",
+  "key": "intro",
+  "en": "Inspect the plugins this deployment ships."
+ },
+ {
+  "ns": "settings.plugins",
+  "key": "tabs",
+  "en": "Plugin views"
+ },
+ {
+  "ns": "settings.plugins",
+  "key": "empty",
+  "en": "This deployment exposes no plugin views."
+ },
+ {
+  "ns": "sidebar",
+  "key": "session.new",
+  "en": "New Session"
+ },
+ {
+  "ns": "sidebar",
+  "key": "session.new.label",
+  "en": "New session"
+ },
+ {
+  "ns": "sidebar",
+  "key": "toggle.open",
+  "en": "Open sidebar"
+ },
+ {
+  "ns": "sidebar",
+  "key": "toggle.collapse",
+  "en": "Collapse sidebar"
+ },
+ {
+  "ns": "sidebar",
+  "key": "panels.label",
+  "en": "Global panels"
+ },
+ {
+  "ns": "sidebarImage",
+  "key": "title",
+  "en": "Image"
+ },
+ {
+  "ns": "sidebarImage",
+  "key": "preview",
+  "en": "Image preview: {name}"
+ },
+ {
+  "ns": "sidebarImage",
+  "key": "loading",
+  "en": "Rendering document..."
+ },
+ {
+  "ns": "sidebarImage",
+  "key": "failed",
+  "en": "This image could not be displayed."
+ },
+ {
+  "ns": "sidebarImage",
+  "key": "unsupported",
+  "en": "Image preview requires the complete file contents."
+ },
+ {
+  "ns": "settings.sessionLog",
+  "key": "title",
+  "en": "Upload Session Log when using the official model API"
+ },
+ {
+  "ns": "settings.sessionLog",
+  "key": "description",
+  "en": "Help improve DeepSeek models and products."
+ },
+ {
+  "ns": "settings.sessionLog",
+  "key": "saved",
+  "en": "Preference saved"
+ },
+ {
+  "ns": "settings.sessionLog",
+  "key": "failed",
+  "en": "Could not save preference"
+ },
+ {
+  "ns": "documentMarkdown",
+  "key": "viewer.label",
+  "en": "Markdown"
+ },
+ {
+  "ns": "documentMarkdown",
+  "key": "code.copy",
+  "en": "Copy"
+ },
+ {
+  "ns": "documentMarkdown",
+  "key": "code.copied",
+  "en": "Copied"
+ },
+ {
+  "ns": "documentMarkdown",
+  "key": "footnotes",
+  "en": "Footnotes"
+ },
+ {
+  "ns": "documentHtml",
+  "key": "title",
+  "en": "HTML"
+ },
+ {
+  "ns": "documentHtml",
+  "key": "frame",
+  "en": "HTML document preview"
+ },
+ {
+  "ns": "documentHtml",
+  "key": "loading",
+  "en": "Rendering document..."
+ },
+ {
+  "ns": "documentHtml",
+  "key": "failed",
+  "en": "This HTML document could not be previewed."
+ },
+ {
+  "ns": "sidebarCodePreview",
+  "key": "title",
+  "en": "Code"
+ },
+ {
+  "ns": "sidebarCodePreview",
+  "key": "copy",
+  "en": "Copy"
+ },
+ {
+  "ns": "sidebarCodePreview",
+  "key": "copied",
+  "en": "Copied"
+ }
+]
